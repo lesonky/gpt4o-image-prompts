@@ -62,14 +62,64 @@ a:hover {
 }
 
 .header-top {
-  max-width: 960px;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  gap: 1.2rem;
+  width: 100%;
   margin-bottom: 1.4rem;
+}
+
+.header-brand {
+  flex: 1 1 320px;
 }
 
 .tagline {
   margin: 0.8rem 0 0;
   color: var(--text-subtle);
   font-size: 1rem;
+}
+
+.github-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.55rem;
+  padding: 0.5rem 0.9rem;
+  margin-left: auto;
+  flex: 0 0 auto;
+  border-radius: 999px;
+  border: 1px solid rgba(148, 163, 184, 0.2);
+  background: linear-gradient(135deg, rgba(56, 189, 248, 0.2), rgba(15, 23, 42, 0.6));
+  color: #e2e8f0;
+  font-size: 0.95rem;
+  font-weight: 500;
+  transition: transform var(--transition), border-color var(--transition), box-shadow var(--transition);
+  line-height: 1;
+  margin-top: 6px;
+}
+
+.github-link:hover {
+  transform: translateY(-2px);
+  border-color: rgba(56, 189, 248, 0.6);
+  box-shadow: 0 10px 20px rgba(15, 23, 42, 0.35);
+}
+
+.github-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.github-link svg {
+  width: 1.1rem;
+  height: 1.1rem;
+  fill: currentColor;
+  display: block;
+}
+
+.github-text {
+  letter-spacing: 0.01em;
 }
 
 .control-bar {
