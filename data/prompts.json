@@ -1,7 +1,35 @@
 {
-  "generatedAt": "2025-10-15T07:43:31.979Z",
-  "total": 334,
+  "generatedAt": "2025-10-16T02:12:50.388Z",
+  "total": 335,
   "items": [
+    {
+      "id": 335,
+      "slug": "prompt-335",
+      "title": "蓝白墨线手绘肖像",
+      "source": {
+        "name": "@ZHO_ZHO_ZHO",
+        "url": "https://x.com/ZHO_ZHO_ZHO/status/1977259399833158116"
+      },
+      "images": [
+        "images/335-1.jpg",
+        "images/335-2.jpg",
+        "images/335-3.jpg"
+      ],
+      "prompts": [
+        "Create a photo-style line drawing / ink sketch of the person identical to the uploaded image - keep every facial feature, proportion, and expression exactly the same. Use blue and white ink tones with intricate, fine line detailing, drawn on a notebook-page style background. Show a right hand holding a pen and an eraser near the sketch, as if the artist is still working."
+      ],
+      "examples": [],
+      "notes": [
+        "在上传参考人物照片的同时保留姿势与构图，可得到与原图一致的蓝白手绘效果。"
+      ],
+      "originFile": "300.md",
+      "description": "",
+      "tags": [
+        "photography",
+        "portrait"
+      ],
+      "coverImage": "images/335-1.jpg"
+    },
     {
       "id": 334,
       "slug": "prompt-334",
