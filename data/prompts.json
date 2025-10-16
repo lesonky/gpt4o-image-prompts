@@ -1,7 +1,34 @@
 {
-  "generatedAt": "2025-10-16T02:12:50.388Z",
-  "total": 335,
+  "generatedAt": "2025-10-16T02:59:18.000Z",
+  "total": 336,
   "items": [
+    {
+      "id": 336,
+      "slug": "prompt-336",
+      "title": "微缩瓶中3D人物",
+      "source": {
+        "name": "@samann_ai",
+        "url": "https://x.com/samann_ai/status/1978173128921489786"
+      },
+      "images": [
+        "images/336-1.jpg"
+      ],
+      "prompts": [
+        "Create a hyper-real miniature diorama inside a clear glass bottle on a wooden table. Place (character) seated in a plush armchair, relaxed posture, holding (accessory) in their hands with natural grip and finger tension - no book or extra props. Keep scale tiny yet believable; show thick bottle lip, optical refraction, soft caustics on the table, micro-scratches, faint dust and smudges on the glass. Warm studio key light from the right, subtle bounce from the left; soft reflections on the bottle; gentle shadow beneath. Bottle floor: fine sand with small shells and a thin turquoise water rim, grains sharply resolved. On the upper-left of the glass, add a handwritten white marker note: \"(glass_text)\" with correct superscripts. Background: warm beige, softly blurred. Tilt-shift/macro look, 85mm aesthetic, f/1.8 depth of field; crisp textures (skin pores, hair flyaways, fabric weave, metal/plastic/glass of the (accessory)). Centered framing, vertical 3:4 ratio, HDR detail, subtle vignette, premium cinematic hyper-real miniature style."
+      ],
+      "examples": [],
+      "notes": [
+        "将 (character)、(accessory) 与 (glass_text) 替换为自定义内容，可快速生成个性化瓶中小人场景。"
+      ],
+      "originFile": "300.md",
+      "description": "",
+      "tags": [
+        "3d",
+        "photography",
+        "product"
+      ],
+      "coverImage": "images/336-1.jpg"
+    },
     {
       "id": 335,
       "slug": "prompt-335",
