@@ -1,7 +1,31 @@
 {
-  "generatedAt": "2025-10-17T02:49:23.792Z",
-  "total": 338,
+  "generatedAt": "2025-10-17T07:28:33.259Z",
+  "total": 339,
   "items": [
+    {
+      "id": 339,
+      "slug": "prompt-339",
+      "title": "儿童蜡笔画风重绘",
+      "source": {
+        "name": "@TechieBySA",
+        "url": "https://x.com/TechieBySA/status/1978768277489741969"
+      },
+      "images": [
+        "images/339-1.jpg"
+      ],
+      "prompts": [
+        "Transform this painting into a fun crayon drawing on lined paper, as if recreated by a child. Keep the main composition, subject matter, colors, and general layout of the original painting, but reimagine it with rough, irregular crayon strokes and childlike simplicity. Use vibrant, messy crayon textures with visible waxy strokes and uneven coloring, as if drawn by a young child. Simplify complex details into basic shapes and bold outlines. Keep the overall scene recognizable but with a charming, imperfect quality. Place the drawing on blue lined notebook paper with a red vertical margin line on the left side. Maintain the key elements and composition of the original artwork, but render them with the innocent, carefree style of a child’s crayon masterpiece. Add slight scribbles, color outside the lines occasionally, and include that authentic “kid art” texture."
+      ],
+      "examples": [],
+      "notes": [],
+      "originFile": "300.md",
+      "description": "",
+      "tags": [
+        "paper-craft",
+        "vehicle"
+      ],
+      "coverImage": "images/339-1.jpg"
+    },
     {
       "id": 338,
       "slug": "prompt-338",
