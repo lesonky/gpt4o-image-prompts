@@ -5,6 +5,7 @@
 - `assets/` ships the static gallery UI that powers `index.html`; edit styles and scripts there.
 - `scripts/` houses Node.js tooling (dataset generator, X importer) written in CommonJS modules.
 - `data/prompts.json` is generated output—never hand-edit—and `images/` stores shared reference art.
+- `AI_HELP.md` is the AI collaboration guide; refer to it for adding new cases and using the scripts.
 
 ## Build, Test, and Development Commands
 - `node scripts/generate-dataset.js` rebuilds `data/prompts.json` from the markdown sources; run after any content change.

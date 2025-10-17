@@ -1,7 +1,66 @@
 {
-  "generatedAt": "2025-10-16T02:59:18.000Z",
-  "total": 336,
+  "generatedAt": "2025-10-17T02:49:23.792Z",
+  "total": 338,
   "items": [
+    {
+      "id": 338,
+      "slug": "prompt-338",
+      "title": "复古怀旧风工作室肖像",
+      "source": {
+        "name": "@songguoxiansen",
+        "url": "https://x.com/songguoxiansen/status/1979003177614835736"
+      },
+      "images": [
+        "images/338-1.jpeg",
+        "images/338-2.jpeg"
+      ],
+      "prompts": [
+        "A full-body studio portrait of a handsome young East Asian woman sitting on the floor in front of a warm yellow backdrop. She is wearing a vintage, oversized mustard yellow cable-knit cardigan, a flowy floral midi skirt, and cream-colored lace-trimmed socks. She is gently cradling a retro, fluffy Snoopy plushie and looking slightly off-camera with a dreamy, nostalgic expression. The background is decorated with whimsical, hand-drawn orange and brown doodles and text, including \"VINTAGE SOUL\", \"CLAIRE\", old-school cassette tapes, and stars, in the style of a retro film photo album or indie magazine cover. The lighting is soft and diffused, creating a warm, nostalgic film photography aesthetic. Use the exact same face as in the uploaded image, no alteration, 100% unchanged. Remove her earrings.",
+        "一张东亚年轻美女的全身工作室肖像照，她坐在暖黄色背景前的地板上。她身着一件复古廓形的芥末黄绞花针织开衫，搭配一条飘逸的碎花中长裙，脚穿米白色蕾丝镶边袜子。她温柔地抱着一个复古毛绒史努比玩偶，目光微微偏离镜头，神情梦幻又带着怀旧感。背景装饰有俏皮的手绘橙色与棕色涂鸦及文字，包括 “VINTAGE SOUL”（复古灵魂）、“CLAIRE”（克莱尔）、老式磁带和星星等元素，风格如同复古胶片相册或独立杂志封面。光线柔和且均匀，营造出温暖怀旧的胶片摄影美感。脸部需与上传图片完全一致，不得修改，保持 100% 原样。去除她的耳环。"
+      ],
+      "examples": [],
+      "notes": [],
+      "originFile": "300.md",
+      "description": "",
+      "tags": [
+        "nature",
+        "photography",
+        "portrait",
+        "retro",
+        "vehicle"
+      ],
+      "coverImage": "images/338-1.jpeg"
+    },
+    {
+      "id": 337,
+      "slug": "prompt-337",
+      "title": "街头涂鸦风工作室肖像",
+      "source": {
+        "name": "@songguoxiansen",
+        "url": "https://x.com/songguoxiansen/status/1978652114600485079"
+      },
+      "images": [
+        "images/337-1.jpeg",
+        "images/337-2.jpeg"
+      ],
+      "prompts": [
+        "A full-body studio portrait of a handsome young East Asian woman with flawless fair skin and beautiful, long flowing dark hair. She is sitting casually on an overturned milk crate in front of a vibrant, graffiti-style orange and teal backdrop. She is wearing an oversized graphic t-shirt, baggy ripped jeans, and colorful high-top sneakers. Playfully holding a cool, cartoon-style monster plushie, she smiles at the camera with a cheeky, energetic expression. The background is decorated with bold, spray-painted yellow and black urban art and text, including \"STREET CHIC\", \"JESSICA\", skateboards, boomboxes, and dynamic lines, in the style of a streetwear lookbook or a hip-hop album cover. The lighting is bright and edgy, emphasizing the dynamic and youthful vibe. Use the exact same face as in the uploaded image, no alteration, 100% unchanged. Remove her earrings.",
+        "一张东亚年轻美女的全身工作室肖像照：她拥有无瑕的白皙肌肤和一头漂亮的飘逸深色长发。她随意地坐在一个倒扣的牛奶箱上，身后是色彩鲜艳的涂鸦风格橙绿撞色背景。她身着一件宽松的印花 T 恤、工装破洞牛仔裤，脚踩一双色彩鲜艳的高帮运动鞋。她俏皮地抱着一个造型酷炫的卡通风格怪兽毛绒玩具，对着镜头微笑，神情活泼又带点小调皮。背景装饰有醒目的黄黑配色喷涂街头艺术和文字，包括 “STREET CHIC”（街头时尚）、“JESSICA”（杰西卡）、滑板、便携音箱以及充满动感的线条，整体风格如同街头服饰穿搭手册或嘻哈专辑封面。光线明亮且极具个性，凸显出画面动感十足的年轻氛围。需完全沿用上传图片中的面部，不做任何修改，保持 100% 原样。移除她的耳环。"
+      ],
+      "examples": [],
+      "notes": [],
+      "originFile": "300.md",
+      "description": "",
+      "tags": [
+        "cartoon",
+        "fashion",
+        "nature",
+        "portrait",
+        "toy",
+        "vehicle"
+      ],
+      "coverImage": "images/337-1.jpeg"
+    },
     {
       "id": 336,
       "slug": "prompt-336",
@@ -14,18 +73,18 @@
         "images/336-1.jpg"
       ],
       "prompts": [
-        "Create a hyper-real miniature diorama inside a clear glass bottle on a wooden table. Place (character) seated in a plush armchair, relaxed posture, holding (accessory) in their hands with natural grip and finger tension - no book or extra props. Keep scale tiny yet believable; show thick bottle lip, optical refraction, soft caustics on the table, micro-scratches, faint dust and smudges on the glass. Warm studio key light from the right, subtle bounce from the left; soft reflections on the bottle; gentle shadow beneath. Bottle floor: fine sand with small shells and a thin turquoise water rim, grains sharply resolved. On the upper-left of the glass, add a handwritten white marker note: \"(glass_text)\" with correct superscripts. Background: warm beige, softly blurred. Tilt-shift/macro look, 85mm aesthetic, f/1.8 depth of field; crisp textures (skin pores, hair flyaways, fabric weave, metal/plastic/glass of the (accessory)). Centered framing, vertical 3:4 ratio, HDR detail, subtle vignette, premium cinematic hyper-real miniature style."
+        "Create a hyper-real miniature diorama inside a clear glass bottle on a wooden table. Place (character) seated in a plush armchair, relaxed posture, holding (accessory) in their hands with natural grip and finger tension—no book or extra props. Keep scale tiny yet believable; show thick bottle lip, optical refraction, soft caustics on the table, micro-scratches, faint dust and smudges on the glass. Warm studio key light from the right, subtle bounce from the left; soft reflections on the bottle; gentle shadow beneath. Bottle floor: fine sand with small shells and a thin turquoise water rim, grains sharply resolved. On the upper-left of the glass, add a handwritten white marker note: “(glass_text)” with correct superscripts. Background: warm beige, softly blurred. Tilt-shift/macro look, 85mm aesthetic, f/1.8 depth of field; crisp textures (skin pores, hair flyaways, fabric weave, metal/plastic/glass of the (accessory)). Centered framing, vertical 3:4 ratio, HDR detail, subtle vignette, premium cinematic hyper-real miniature style."
       ],
       "examples": [],
       "notes": [
-        "将 (character)、(accessory) 与 (glass_text) 替换为自定义内容，可快速生成个性化瓶中小人场景。"
+        "将 `(character)`、`(accessory)` 与 `(glass_text)` 替换为自定义内容，可快速生成个性化瓶中小人场景。"
       ],
       "originFile": "300.md",
       "description": "",
       "tags": [
-        "3d",
-        "photography",
-        "product"
+        "character",
+        "landscape",
+        "portrait"
       ],
       "coverImage": "images/336-1.jpg"
     },
