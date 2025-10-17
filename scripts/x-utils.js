@@ -1,9 +1,9 @@
 #!/usr/bin/env node
 
 /**
- * Utility helpers for importing prompt cases from X (formerly Twitter).
- * The module fetches a post through the r.jina.ai cache endpoint to avoid
- * authentication and returns a structured object with prompt text and media.
+ * Minimal helper utilities for grabbing raw X (Twitter) post content.
+ * The goal is to capture enough context (text + media URLs) so that an
+ * upstream AI agent can perform richer parsing or summarisation.
  */
 
 const { URL } = require('url');
@@ -23,9 +23,6 @@ async function getFetch() {
   }
 }
 
-/**
- * Normalise X/Twitter URL into a canonical host/path string.
- */
 function normaliseXUrl(rawUrl) {
   if (!rawUrl) {
     throw new Error('No URL provided.');
@@ -44,9 +41,6 @@ function normaliseXUrl(rawUrl) {
   return parsed.href.replace(/^https:\/\//, '');
 }
 
-/**
- * Fetch the cached markdown representation of an X post via r.jina.ai.
- */
 async function fetchXMarkdown(rawUrl) {
   const fetch = await getFetch();
   const normalised = normaliseXUrl(rawUrl);
@@ -62,120 +56,71 @@ async function fetchXMarkdown(rawUrl) {
   return response.text();
 }
 
-/**
- * Extract basic author info from the markdown payload.
- */
-function extractAuthor(markdown) {
-  const authorMatch = markdown.match(/\[([^\]]+)\]\((https:\/\/x\.com\/[^\)]+)\)\s*\n\n\[@([^\]]+)\]\(https:\/\/x\.com\/[^\)]+\)/);
-  if (!authorMatch) {
-    return null;
-  }
-  return {
-    name: authorMatch[1].trim(),
-    profileUrl: authorMatch[2].trim(),
-    handle: authorMatch[3].trim(),
-  };
-}
-
-/**
- * Extract the raw tweet text and derive a probable prompt string.
- */
-function extractPrompt(markdown) {
+function extractPostText(markdown) {
+  if (!markdown) return '';
   const rawLines = markdown.split('\n');
-  const lines = rawLines.map((line) => line.trim());
-  const conversationMarker = lines.findIndex((line) => /^conversation$/i.test(line));
-  const startIndex = conversationMarker >= 0 ? conversationMarker + 1 : 0;
+  const trimmedLines = rawLines.map((line) => line.trimEnd());
 
-  const tweetIndex = lines.findIndex((line, idx) => {
-    if (!line) return false;
-    if (idx < startIndex) return false;
-    if (line.startsWith('![') || line.startsWith('[') || line.startsWith('Title:')) return false;
-    if (line.startsWith('URL Source:') || line.startsWith('Markdown Content:')) return false;
-    if (/^=+$/.test(line) || /^-+$/.test(line)) return false;
-    if (line.startsWith('Post')) return false;
-    if (/^See new posts/i.test(line)) return false;
-    if (/^\d+[\d\s]*[·]/.test(line)) return false;
-    return true;
-  });
-  if (tweetIndex < 0) {
-    return { tweetText: '', promptText: '' };
+  let start = trimmedLines.findIndex((line) => /^conversation$/i.test(line.trim()));
+  if (start === -1) {
+    start = trimmedLines.findIndex((line) => /^post$/i.test(line.trim()));
+    if (start !== -1) start += 2;
+  } else {
+    start += 2; // skip underline row
   }
+
+  if (start < 0) start = 0;
 
   const collected = [];
-  for (let i = tweetIndex; i < lines.length; i += 1) {
-    const rawLine = rawLines[i];
-    const trimmed = lines[i];
-    if (!trimmed) break;
-    if (trimmed.startsWith('[![') || trimmed.startsWith('[4:')) break;
-    if (trimmed.startsWith('New to X?')) break;
-    if (/^\[\d/.test(trimmed) && trimmed.includes('·')) break;
-    collected.push(rawLine.trim());
+  for (let i = start; i < trimmedLines.length; i += 1) {
+    const line = trimmedLines[i];
+    const normalized = line.trim();
+    if (!normalized && collected.length > 0) break;
+    if (/^quote$/i.test(normalized)) break;
+    if (/^\[!\[/.test(normalized)) continue;
+    if (/^\d+\.\d+k?\s*views?/i.test(normalized)) continue;
+    collected.push(line);
   }
 
-  const tweetText = collected.join(' ').replace(/\s+/g, ' ').trim();
-  const sanitizedText = tweetText
+  const merged = collected.join('\n').trim();
+  if (!merged) return '';
+
+  return merged
     .replace(/!\[[^\]]*]\([^)]+\)/g, '')
-    .replace(/https:\/\/t\.co\/\S+/gi, '')
-    .replace(/" ?\/ ?X$/i, '')
-    .replace(/\/ ?X$/i, '')
-    .trim()
-    .replace(/\s+/g, ' ');
-
-  if (!sanitizedText) {
-    return { tweetText: '', promptText: '' };
-  }
-
-  const lower = sanitizedText.toLowerCase();
-  const keyword = lower.indexOf('prompt');
-  const promptText =
-    keyword >= 0 ? sanitizedText.slice(keyword).replace(/^prompt[^a-z0-9]*/i, '').trim() : sanitizedText;
-
-  return {
-    tweetText: sanitizedText,
-    promptText,
-  };
+    .replace(/\[(.*?)\]\((https?:\/\/[^\)]+)\)/g, '$1')
+    .replace(/\s+/g, ' ')
+    .trim();
 }
 
-/**
- * Extract all media URLs from the markdown payload.
- */
 function extractMedia(markdown) {
+  if (!markdown) return [];
   const matches = Array.from(markdown.matchAll(/https:\/\/pbs\.twimg\.com\/media\/[^\s)"]+/g)).map((match) => match[0]);
   const unique = Array.from(new Set(matches));
-  return unique.map((url) => {
-    const clean = url.replace(/(\?|&)name=\w+/i, '').replace(/(\?|&)format=\w+/i, '');
-    const hasQuery = clean.includes('?');
-    const suffix = hasQuery ? '&name=4096x4096' : '?name=4096x4096';
-    return `${clean}${suffix}`;
+  return unique.map((raw) => {
+    try {
+      const url = new URL(raw);
+      if (url.searchParams.has('name')) {
+        url.searchParams.set('name', '4096x4096');
+      } else {
+        url.searchParams.append('name', '4096x4096');
+      }
+      return url.toString();
+    } catch (error) {
+      return raw;
+    }
   });
 }
 
-/**
- * Extract timestamp text (if available).
- */
-function extractTimestamp(markdown) {
-  const match = markdown.match(/\[(\d{1,2}:\d{2}\s*(?:AM|PM)?\s*·\s*[^\]]+)\]\(https:\/\/x\.com\/[^\)]+\)/i);
-  return match ? match[1].trim() : null;
-}
-
-/**
- * Fetch and parse an X post into a structured prompt case object.
- */
 async function fetchXCase(rawUrl) {
   const markdown = await fetchXMarkdown(rawUrl);
-  const author = extractAuthor(markdown);
-  const { tweetText, promptText } = extractPrompt(markdown);
   const images = extractMedia(markdown);
-  const timestamp = extractTimestamp(markdown);
+  const text = extractPostText(markdown);
 
   return {
     sourceUrl: `https://${normaliseXUrl(rawUrl)}`,
     fetchedAt: new Date().toISOString(),
-    author,
-    tweetText,
-    promptText,
+    text,
     images,
-    timestamp,
     rawMarkdown: markdown,
   };
 }
@@ -184,8 +129,6 @@ module.exports = {
   fetchXCase,
   fetchXMarkdown,
   normaliseXUrl,
-  extractPrompt,
+  extractPostText,
   extractMedia,
-  extractAuthor,
-  extractTimestamp,
 };

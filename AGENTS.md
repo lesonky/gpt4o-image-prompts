@@ -9,7 +9,7 @@
 
 ## Build, Test, and Development Commands
 - `node scripts/generate-dataset.js` rebuilds `data/prompts.json` from the markdown sources; run after any content change.
-- `node scripts/fetch-x-case.js <x-url>` pulls prompt text and media URLs from X/Twitter to seed a new case.
+- `node scripts/fetch-x-case.js <x-url>` fetches the raw markdown, plain text snippet, and media URLs for an X/Twitter post so the AI agent can perform downstream parsing.
 - `python3 -m http.server 8000` (run from the repo root) serves `index.html` for local gallery QA.
 - `npm install node-fetch` is only needed on Node <18; prefer the zero-dependency flow on Node 18+.
 
