@@ -1,7 +1,41 @@
 {
-  "generatedAt": "2025-10-17T07:28:33.259Z",
-  "total": 339,
+  "generatedAt": "2025-10-18T01:58:30.669Z",
+  "total": 340,
   "items": [
+    {
+      "id": 340,
+      "slug": "prompt-340",
+      "title": "3D黏土迷你餐厅",
+      "source": {
+        "name": "@TechieBySA",
+        "url": "https://x.com/TechieBySA/status/1979281571321680355"
+      },
+      "images": [
+        "images/340-1.jpg"
+      ],
+      "prompts": [
+        "Create a cute 3D miniature scene of a [RESTAURANT] shaped like a small toy building on a clean white neutral studio background. The roof features iconic design elements and branding with the logo prominently displayed on top. Tiny cartoon-style characters are sitting inside at small tables enjoying food and drinks. A worker serves customers at the counter. Outside, include themed decorations, a small parked car, simple trees, and a tiny drive-thru or pickup sign. The style should be adorable, clay-like, highly detailed, with soft even studio lighting like a professional toy diorama photograph. 1080x1080 dimensions, isometric view.",
+        "创建一个可爱的 3D 迷你场景，把 [RESTAURANT] 打造成一个小玩具建筑，置于干净的白色中性色调摄影棚背景。屋顶保留标志性的设计元素，Logo 显眼地展示在顶部。可爱卡通角色坐在内部的小桌旁享用食物和饮品，一名店员在柜台为顾客服务。外部包含主题装饰、一辆停放的小汽车、简单的树木，以及一个迷你的得来速或取餐标识。整体风格应可爱、黏土质感、细节丰富，采用柔和均匀的棚拍灯光，呈现专业玩具微缩景观照片效果。画面比例 1080x1080，采用等距视角。"
+      ],
+      "examples": [],
+      "notes": [],
+      "originFile": "300.md",
+      "description": "",
+      "tags": [
+        "architecture",
+        "branding",
+        "cartoon",
+        "character",
+        "clay",
+        "food",
+        "landscape",
+        "logo",
+        "photography",
+        "toy",
+        "vehicle"
+      ],
+      "coverImage": "images/340-1.jpg"
+    },
     {
       "id": 339,
       "slug": "prompt-339",
