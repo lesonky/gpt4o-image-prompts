@@ -1,7 +1,32 @@
 {
-  "generatedAt": "2025-10-18T13:51:53.192Z",
-  "total": 341,
+  "generatedAt": "2025-10-19T15:03:55.210Z",
+  "total": 342,
   "items": [
+    {
+      "id": 342,
+      "slug": "prompt-342",
+      "title": "超写实影棚男士肖像",
+      "source": {
+        "name": "@cheerselflin",
+        "url": "https://x.com/cheerselflin/status/1979569018928603432"
+      },
+      "images": [
+        "images/342.png"
+      ],
+      "prompts": [
+        "超写实影棚肖像，一位男性优雅地斜倚在椅子靠背上，身着时尚的深色服装。以微妙的低角度拍摄，以突出他的面部特征和自信的表情。电影般的黑白调色，肤色自然精致。纯黑色背景，8K 锐利细节，突出服装、头发和眼睛的纹理，营造出戏剧性、栩栩如生的效果。"
+      ],
+      "examples": [],
+      "notes": [],
+      "originFile": "300.md",
+      "description": "",
+      "tags": [
+        "fashion",
+        "nature",
+        "portrait"
+      ],
+      "coverImage": "images/342.png"
+    },
     {
       "id": 341,
       "slug": "prompt-341",

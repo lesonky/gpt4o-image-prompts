@@ -20,6 +20,14 @@
    curl -L "<media_url>?name=4096x4096" -o images/<编号>-<序号>.jpg
    ```
    - 使用上一步返回的 `images` 数组，按数字编号命名文件，序号从 1 开始。
+   - 如果已安装 `gallery-dl`，可以一次性抓取推文中的所有高清媒体并自动命名：
+     ```bash
+     gallery-dl --write-metadata --no-part -o base-directory=images -o filename="<编号>-{num}.{extension}" <贴文链接>
+     ```
+     - `--write-metadata` 会同时输出元数据（方便核对原作者、时间等信息）。
+     - `--no-part` 避免生成临时分片文件。
+     - `filename` 参数中的 `<编号>` 需替换为当前案例编号；`{num}` 会被 gallery-dl 依序替换为 1、2、3…，确保文件名仍满足 `<编号>-<序号>.jpg` 的规范。
+     - 若推文需要登录才能访问，可配合 `-o cookies=<路径>` 指向浏览器导出的 cookies 文件。
 3. **更新 Markdown**
    - 在 `300.md` 顶部目录中增加新的案例条目（保持从大到小排序）。
    - 追加完整案例段落，包含：
