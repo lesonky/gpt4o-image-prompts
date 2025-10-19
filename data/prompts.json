@@ -1,7 +1,38 @@
 {
-  "generatedAt": "2025-10-19T15:18:35.816Z",
-  "total": 343,
+  "generatedAt": "2025-10-19T15:55:10.060Z",
+  "total": 344,
   "items": [
+    {
+      "id": 344,
+      "slug": "prompt-344",
+      "title": "微距手指漫步",
+      "source": {
+        "name": "@ShreyaYadav___",
+        "url": "https://twitter.com/ShreyaYadav___/status/1979929384598512019"
+      },
+      "images": [
+        "images/344-1.jpg",
+        "images/344-2.jpg",
+        "images/344-3.jpg",
+        "images/344-4.jpg",
+        "images/344-5.jpg",
+        "images/344-6.jpg",
+        "images/344-7.jpg",
+        "images/344-8.jpg",
+        "images/344-9.jpg"
+      ],
+      "prompts": [
+        "A man (attached photo) waking casually on a human finger, Ultra-realistic macro photograph with soft natural afternoon sunlight. Sharp focus on the man, surrounded by a smooth, creamy bokeh background. The finger skin texture is detailed — pores, fine lines, and a natural sheen. slightly oily and realistic."
+      ],
+      "examples": [],
+      "notes": [],
+      "originFile": "300.md",
+      "description": "",
+      "tags": [
+        "photography"
+      ],
+      "coverImage": "images/344-1.jpg"
+    },
     {
       "id": 343,
       "slug": "prompt-343",
