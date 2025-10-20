@@ -1,7 +1,138 @@
 {
-  "generatedAt": "2025-10-19T15:55:10.060Z",
-  "total": 344,
+  "generatedAt": "2025-10-20T02:14:10.667Z",
+  "total": 349,
   "items": [
+    {
+      "id": 349,
+      "slug": "prompt-349",
+      "title": "复古四格少女肖像",
+      "source": {
+        "name": "@hahazwei",
+        "url": "https://twitter.com/hahazwei/status/1963896169412850148"
+      },
+      "images": [
+        "images/349.jpg"
+      ],
+      "prompts": [
+        "four-photo collage, retro portrait photography, a beautiful young woman with delicate facial features, fair smooth skin, natural soft makeup, glossy pink lips, subtle blush, hairstyle: short straight hair, neat blunt bangs (full fringe), sleek and tidy, giving a fresh youthful look, outfit: pastel light blue off-shoulder knit top, slim fit, feminine and elegant, poses: 1. holding a vintage portable music player, dreamy expression, wearing wired earphones, 2. smiling softly while holding a small plush toy, relaxed and cute pose, 3. looking directly at the camera with a calm gentle gaze, elegant posture, 4. wearing retro white headphones, one hand touching the earcup, soft smile, background: pastel light pink wallpaper with small floral patterns, soft retro studio vibe, color palette: pastel light blue and pastel pink, creamy filter tones, dreamy soft film effect, photography style: soft focus, retro 2000s aesthetic, high-key lighting, glossy finish, mood: youthful, sweet, dreamy, nostalgic"
+      ],
+      "examples": [],
+      "notes": [],
+      "originFile": "300.md",
+      "description": "",
+      "tags": [
+        "nature",
+        "paper-craft",
+        "photography",
+        "portrait",
+        "retro",
+        "toy"
+      ],
+      "coverImage": "images/349.jpg"
+    },
+    {
+      "id": 348,
+      "slug": "prompt-348",
+      "title": "极简暗光棚拍造型",
+      "source": {
+        "name": "@ecommartinez",
+        "url": "https://twitter.com/ecommartinez/status/1978793111590420938"
+      },
+      "images": [
+        "images/348-1.jpg",
+        "images/348-2.jpg",
+        "images/348-3.jpg",
+        "images/348-4.jpg"
+      ],
+      "prompts": [
+        "En un estudio minimalista con paredes negras, te apoyas contra la pared vistiendo un abrigo negro sobre un suéter de cuello alto oscuro y pantalones ajustados. Posición: brazos cruzados, cuerpo ligeramente girado de lado. Expresión: mirada intensa y serena, labios firmemente cerrados. Una franja de luz lateral resalta el contorno de tu figura, creando una silueta misteriosa. Asegúrate de que el rostro se mantenga igual y 100 % reservado."
+      ],
+      "examples": [],
+      "notes": [],
+      "originFile": "300.md",
+      "description": "",
+      "tags": [
+        "minimalist"
+      ],
+      "coverImage": "images/348-1.jpg"
+    },
+    {
+      "id": 347,
+      "slug": "prompt-347",
+      "title": "红色流体环绕男士特写",
+      "source": {
+        "name": "@NanoBanana_labs",
+        "url": "https://twitter.com/NanoBanana_labs/status/1979947113443422575"
+      },
+      "images": [
+        "images/347-1.jpg",
+        "images/347-2.jpg",
+        "images/347-3.jpg",
+        "images/347-4.jpg"
+      ],
+      "prompts": [
+        "Four similar close-up portraits of a man with short brown hair wearing aviator sunglasses, eyes closed or partially visible, lips slightly parted, face tilted upward, pale smooth skin, surrounded by flowing vibrant red inky liquid and smoky textures merging from neck and shoulders blowing in wind, against simple bright background with soft burgundy red particles and mist."
+      ],
+      "examples": [],
+      "notes": [],
+      "originFile": "300.md",
+      "description": "",
+      "tags": [
+        "portrait"
+      ],
+      "coverImage": "images/347-1.jpg"
+    },
+    {
+      "id": 346,
+      "slug": "prompt-346",
+      "title": "双色灯光男士肖像",
+      "source": {
+        "name": "@NanoBanana_labs",
+        "url": "https://twitter.com/NanoBanana_labs/status/1980089459858125169"
+      },
+      "images": [
+        "images/346-1.jpg",
+        "images/346-2.jpg",
+        "images/346-3.jpg",
+        "images/346-4.jpg"
+      ],
+      "prompts": [
+        "The man attached in the reference image is captured in a striking portrait, illuminated by dramatic dual-colored lighting. His face is split, with one side bathed in a cool blue light and the other in a vibrant pink/red hue, creating a high-contrast and neon-like effect. He gazes directly at the viewer with a thoughtful or pensive expression, his left hand resting on his chin. He is wearing a dark t-shirt and a watch on his left wrist. The background is dark and indistinct, further emphasizing the colorful illumination on his face and upper body. Do not change facial features of the person from the uploaded photo. Keep face of person 100% accurate from the reference image. Keep the original face of the attached person unchanged and realistic."
+      ],
+      "examples": [],
+      "notes": [],
+      "originFile": "300.md",
+      "description": "",
+      "tags": [
+        "neon",
+        "photography",
+        "portrait"
+      ],
+      "coverImage": "images/346-1.jpg"
+    },
+    {
+      "id": 345,
+      "slug": "prompt-345",
+      "title": "红铜马克杯蚀刻头像",
+      "source": {
+        "name": "@lukfan",
+        "url": "https://twitter.com/lukfan/status/1963495237529350288"
+      },
+      "images": [
+        "images/345.jpg"
+      ],
+      "prompts": [
+        "把我的头像，蚀刻在一只红铜的马克杯上，杯子上再时刻上文字：“Storyteller FAN”"
+      ],
+      "examples": [],
+      "notes": [],
+      "originFile": "300.md",
+      "description": "",
+      "tags": [
+        "creative"
+      ],
+      "coverImage": "images/345.jpg"
+    },
     {
       "id": 344,
       "slug": "prompt-344",
