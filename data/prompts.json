@@ -1,7 +1,36 @@
 {
-  "generatedAt": "2025-10-20T04:48:57.922Z",
-  "total": 354,
+  "generatedAt": "2025-10-20T10:15:36.588Z",
+  "total": 355,
   "items": [
+    {
+      "id": 355,
+      "slug": "prompt-355",
+      "title": "彩色蜡笔月份插画",
+      "source": {
+        "name": "@TechieBySA",
+        "url": "https://twitter.com/TechieBySA/status/1980194759802233309"
+      },
+      "images": [
+        "images/355-1.jpg",
+        "images/355-2.jpg",
+        "images/355-3.jpg"
+      ],
+      "prompts": [
+        "A neat, colorful crayon and colored-pencil drawing of [MONTH], featuring iconic seasonal elements and activities for that month. The style is slightly more polished than a typical child’s drawing — clean but still playful lines, uneven perspective, and charming imperfections. The drawing uses bold, vibrant, saturated colors throughout with strong, confident color application. The word “[MONTH]” is written in large, thick multicolored crayon letters at the top of the page. White textured paper background, 1080x1080",
+        "绘制一幅整洁、多彩的蜡笔与彩色铅笔画，主题为[MONTH]，呈现该月份的标志性季节元素与活动。风格比普通儿童画稍显精致——线条干净却依旧俏皮，透视不完全准确但带来迷人的小瑕疵。整幅作品使用大胆、鲜艳、高饱和的色彩，色块覆盖自信、有力。页面顶部以粗壮的多色蜡笔字体写出“[MONTH]”。背景为白色纹理纸张，1080x1080。"
+      ],
+      "examples": [],
+      "notes": [],
+      "originFile": "300.md",
+      "description": "",
+      "tags": [
+        "illustration",
+        "logo",
+        "paper-craft",
+        "typography"
+      ],
+      "coverImage": "images/355-1.jpg"
+    },
     {
       "id": 354,
       "slug": "prompt-354",
