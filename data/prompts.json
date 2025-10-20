@@ -1,7 +1,123 @@
 {
-  "generatedAt": "2025-10-20T03:41:28.925Z",
-  "total": 349,
+  "generatedAt": "2025-10-20T04:23:23.857Z",
+  "total": 353,
   "items": [
+    {
+      "id": 353,
+      "slug": "prompt-353",
+      "title": "梦幻云朵影棚写真",
+      "source": {
+        "name": "@NanoBanana_labs",
+        "url": "https://twitter.com/NanoBanana_labs/status/1978026275811053617"
+      },
+      "images": [
+        "images/353-1.jpg",
+        "images/353-2.jpg",
+        "images/353-3.jpg",
+        "images/353-4.jpg"
+      ],
+      "prompts": [
+        "A cinematic studio photoshoot of a single person in the uploaded reference image, comfortably reclining in a large fluffy cloud placed directly on the ground. The cloud is soft, voluminous, and vividly colored in blue, appearing like a natural cushion made of mist and cotton. Do not change facial features of the person from the uploaded photo. Keep face of person 100% accurate from the reference image. Keep the original face of the attached person unchanged and realistic. The person in the uploaded image is lying relaxed inside the cloud, as if sitting in a cozy armchair — legs slightly crossed, body leaned back, expression calm and peaceful. The entire subject (person + cloud) is perfectly centered in the frame, fully visible from head to toe. The background is a clean studio environment with a smooth gradient in blue, evenly lit, with no visible edges or props. Lighting: soft cinematic studio lighting, diffused from multiple angles, creating smooth shadows and gentle highlights on the cloud texture. The atmosphere feels dreamy, surreal, and relaxing — like a fantasy portrait blending fashion and dreamlike comfort. Camera setup: full-body shot, eye-level angle. Mood: calm, elegant, imaginative, and ultra-detailed.",
+        "创建一幅电影级摄影棚场景，将参考图中的人物安坐在地面上一团巨大、柔软且体积感十足的蓝色云朵中。云朵仿佛由雾气与棉花组成的天然坐垫。不得改变人物的面部特征，必须保持与参考照片 100% 一致、真实。人物自然放松地倚靠在云朵里，如同坐在舒适的扶手椅中：双腿微交、身体后仰，神情平和。画面中人物与云朵完整呈现、置于中央，头到脚全部可见。背景为干净的蓝色渐变摄影棚，无额外道具或边缘。灯光采用柔和的电影棚灯，来自多角度的漫射光在云朵纹理上形成细腻阴影与高光。整体氛围梦幻、超现实又放松，仿佛时尚与幻想舒适感的结合。镜头设置：全身照、平视角度。情绪：平静、优雅、富有想象力且细节丰富。"
+      ],
+      "examples": [],
+      "notes": [],
+      "originFile": "300.md",
+      "description": "这是一个典型的 Debug 过程：从现象到问题，一步一步排查，仔细观察逻辑，大胆假设，小心求证。AI 时代，知识已经不是瓶颈，解决问题的思路才是最重要的。",
+      "tags": [
+        "fantasy",
+        "fashion",
+        "landscape",
+        "nature",
+        "photography",
+        "portrait"
+      ],
+      "coverImage": "images/353-1.jpg"
+    },
+    {
+      "id": 352,
+      "slug": "prompt-352",
+      "title": "巨浪冲浪航拍肖像",
+      "source": {
+        "name": "@NanoBanana_labs",
+        "url": "https://twitter.com/NanoBanana_labs/status/1977399435459211466"
+      },
+      "images": [
+        "images/352-1.jpg",
+        "images/352-2.jpg",
+        "images/352-3.jpg",
+        "images/352-4.jpg"
+      ],
+      "prompts": [
+        "The man attached in the photo riding massive ocean wave, life jacket, soaked vest, sleek sunglasses, fitness band, water splashes, overhead high-angle vertical shot, cinematic, hyper-realistic, sharp 8K focus, Do not change his facial features from the uploaded photo. Keep his face 100% accurate from the reference image. Keep the original face of the attached person unchanged and realistic. lighting: golden hour / cool twilight / misty soft / silhouette backlight.",
+        "让参考照片中的男子驾驭巨大的海浪：身穿救生衣与被水浸透的马甲，佩戴利落的太阳镜和健身手环，周围浪花四溅。画面采用俯视高角度的竖幅构图，电影感、超写实、8K 超清锐利。不得改变人物面部特征，需保持与参考图 100% 一致、真实。光线可呈现金色日落、冷色暮光或朦胧逆光剪影等效果。"
+      ],
+      "examples": [],
+      "notes": [],
+      "originFile": "300.md",
+      "description": "",
+      "tags": [
+        "nature",
+        "photography",
+        "portrait"
+      ],
+      "coverImage": "images/352-1.jpg"
+    },
+    {
+      "id": 351,
+      "slug": "prompt-351",
+      "title": "橙调戏剧光人像",
+      "source": {
+        "name": "@NanoBanana_labs",
+        "url": "https://twitter.com/NanoBanana_labs/status/1974173225794822261"
+      },
+      "images": [
+        "images/351-1.jpg",
+        "images/351-2.jpg",
+        "images/351-3.jpg",
+        "images/351-4.jpg"
+      ],
+      "prompts": [
+        "An individual (face same as reference image) with an attractive, polished face, confidently and directly at the camera. The subject wears a simple, high-necked black turtleneck.The shot is a close-up (head and upper shoulder), captured with a telephoto lens from a slightly low angle. Dramatic, high-contrast \"Rembrandt\" lighting from a single, golden side light creates a sharp shadow across the face. The background is a vibrant, uniform burnt orange/deep yellow-orange, contrasting sharply with the black garment. The overall style is sophisticated, intense, and editorial.",
+        "呈现与参考图完全相同面孔的主体，以自信、直接的目光注视镜头。人物穿着简洁的黑色高领上衣，构图为头部与上肩的特写，由略低角度的长焦镜头拍摄。使用单侧金色侧光营造戏剧性的高对比“伦勃朗光”，在脸上形成锐利阴影。背景为饱和鲜明的焦橙 / 深黄橙色调，与黑色服装形成强烈对比。整体风格精致、强烈且具有杂志大片质感。"
+      ],
+      "examples": [],
+      "notes": [],
+      "originFile": "300.md",
+      "description": "",
+      "tags": [
+        "branding",
+        "fashion",
+        "photography",
+        "portrait"
+      ],
+      "coverImage": "images/351-1.jpg"
+    },
+    {
+      "id": 350,
+      "slug": "prompt-350",
+      "title": "金属浮雕人像硬币",
+      "source": {
+        "name": "@NanoBanana_labs",
+        "url": "https://twitter.com/NanoBanana_labs/status/1980041135096521175"
+      },
+      "images": [
+        "images/350.jpg"
+      ],
+      "prompts": [
+        "A detailed metallic coin featuring the person's face from the attached image—do not change any facial features; keep the face 100% accurate to the reference image—embossed in profile, crafted with realistic engraved textures and fine relief detailing. The coin surface shows light reflections, scratches, and metallic sheen. Include subtle inscriptions or symbols around the border to resemble authentic minting. Centered on a dark, minimal background to emphasize the coin’s texture and realism. 1080x1080.",
+        "制作一枚精致的金属硬币，以附图中的人物侧面浮雕肖像为主题（不要改变参考照片中的任何面部特征，确保脸部 100% 准确且逼真）。硬币具有真实的雕刻纹理和细腻的浮雕细节，表面呈现金属反射、细小划痕与金属光泽。硬币边缘加入细微铭文或符号，营造真实铸造质感。置于暗色极简背景中，突出硬币的质感与写实效果。1080x1080。"
+      ],
+      "examples": [],
+      "notes": [],
+      "originFile": "300.md",
+      "description": "",
+      "tags": [
+        "minimalist",
+        "portrait"
+      ],
+      "coverImage": "images/350.jpg"
+    },
     {
       "id": 349,
       "slug": "prompt-349",
