@@ -1,7 +1,36 @@
 {
-  "generatedAt": "2025-10-20T04:23:23.857Z",
-  "total": 353,
+  "generatedAt": "2025-10-20T04:48:57.922Z",
+  "total": 354,
   "items": [
+    {
+      "id": 354,
+      "slug": "prompt-354",
+      "title": "日出城市旅拍人像",
+      "source": {
+        "name": "@Professor_134",
+        "url": "https://twitter.com/Professor_134/status/1980090704312573984"
+      },
+      "images": [
+        "images/354-1.jpg",
+        "images/354-2.jpg",
+        "images/354-3.jpg"
+      ],
+      "prompts": [
+        "Ultra-realistic cinematic street portrait taken in a bustling downtown avenue at sunrise, golden urban glow with amber reflections from car headlights and building facades, editorial travel aesthetic blending warmth and grit. Using the exact face from the provided selfie — no editing, no retouching, no smoothing. Standing mid-crosswalk holding suitcase handle in right hand, left hand relaxed by side, torso slightly leaned forward, head tilted subtly right, gaze direct and confident through sunglasses, calm yet intense presence. Long beige teddy-fleece coat open over off-white hoodie with drawstrings, dark fitted jeans cuffed at ankle, cream sneakers with gum soles, brown cap and round sunglasses, black hard-shell suitcase beside, modern traveler mood. Key light from setting sun behind buildings camera-left (~15° elevation) casting warm rim; fill from reflective asphalt +1.5 stops under key; ambient tungsten and car lights add orange speculars; WB 4200 K; subtle urban haze; low-level mist diffusion. Full-frame sensor, 85 mm lens at ~3 m, f/2.0, 1/200 s, ISO 250, eye-AF locked, Rec.709 profile, vertical 4:5 framing full body, background compressed with shallow depth, leading lines from crosswalk guiding perspective. Cinematic orange-teal grading with golden highlights and rich blacks, low contrast, lifted shadows for film softness, halation on light sources, diffusion 1/8, fine film grain, mild vignette enhancing subject isolation, no beauty retouching. cinematic street portrait, golden hour, travel aesthetic, teddy coat, urban sunset, warm tones, orange teal, reflective asphalt, 85mm lens, shallow depth, rim light, fine grain, editorial realism, city background, confident pose, soft diffusion, cinematic glow",
+        "在日出时分繁华的市中心街道拍摄一幅超写实电影感人像：沐浴在金色城市晨光中，车灯与楼宇立面的琥珀反射交织，营造兼具温暖与粗粝质感的旅行大片风格。使用提供自拍中的原始面孔，不得进行任何编辑、磨皮或润色。人物站在斑马线中央：右手握着硬壳行李箱拉杆，左手自然垂放，躯干微微前倾，头部轻向右侧倾斜，通过圆形太阳镜直视镜头，神情平和却富有张力。造型为敞开的米色泰迪绒长外套，内搭抽绳米白连帽衫，下穿深色修身卷边牛仔裤与奶油色胶底运动鞋，搭配棕色帽子与圆框墨镜，呈现现代旅行者氛围。光线设置：主光来自画面左侧建筑后的落日（约15°高度），形成暖色轮廓光；反射路面提供比主光低1.5档的补光；环境钨丝灯与车灯带来橙色高光点；白平衡4200K；轻雾都市空气与低强度雾化扩散。相机参数：全画幅机身，85mm 镜头，约3米距离，f/2.0，1/200s，ISO 250，眼部自动对焦锁定，Rec.709 色彩，竖构图4:5比例，全身入镜，浅景深压缩背景，斑马线引导线指向主体。调色强调电影级橙青色调与金色高光、丰富黑阶，低对比、抬高阴影呈现胶片柔和感，光源出现柔和晕光，使用1/8强度柔光滤镜，细腻胶片颗粒与轻柔暗角强化主体，绝不进行肤质修饰。关键词：电影街拍、黄金时刻、旅行美学、泰迪绒外套、都市日落、暖色调、橙青调、湿润路面反光、85mm 镜头、浅景深、轮廓光、精细颗粒、杂志感写实、城市背景、自信姿态、柔和扩散、电影发光。"
+      ],
+      "examples": [],
+      "notes": [],
+      "originFile": "300.md",
+      "description": "",
+      "tags": [
+        "architecture",
+        "nature",
+        "portrait",
+        "vehicle"
+      ],
+      "coverImage": "images/354-1.jpg"
+    },
     {
       "id": 353,
       "slug": "prompt-353",
