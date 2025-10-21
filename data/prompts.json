@@ -1,7 +1,62 @@
 {
-  "generatedAt": "2025-10-21T09:08:37.159Z",
-  "total": 358,
+  "generatedAt": "2025-10-22T00:00:00.000Z",
+  "total": 360,
   "items": [
+    {
+      "id": 360,
+      "slug": "prompt-360",
+      "title": "黑白色调亚洲女性肖像",
+      "source": {
+        "name": "@IamEmily2050",
+        "url": "https://twitter.com/IamEmily2050/status/1980627079315222769"
+      },
+      "images": [
+        "images/360-1.jpg"
+      ],
+      "prompts": [
+        "A soft black and white studio portrait of an East Asian woman with dark hair in a loose, slightly messy updo, with strands framing her face. Her head is gently bowed, eyes cast downwards, conveying quiet contemplation. She wears a black ribbed V-neck cardigan or top, revealing a",
+        "柔和黑白色调影棚肖像，东亚女性深色松散略显凌乱的发髻，发丝垂落脸庞。她微微垂头，双眼向下凝视，传递安静的沉思。她穿着黑色罗纹V领开衫或上衣，露出"
+      ],
+      "examples": [],
+      "notes": [],
+      "originFile": "300.md",
+      "description": "",
+      "tags": [
+        "portrait",
+        "black and white",
+        "studio",
+        "Asian"
+      ],
+      "coverImage": "images/360-1.jpg"
+    },
+    {
+      "id": 359,
+      "slug": "prompt-359",
+      "title": "黑白戏剧光影亚洲女性肖像",
+      "source": {
+        "name": "@MANISH1027512",
+        "url": "https://twitter.com/MANISH1027512/status/1980278681927877032"
+      },
+      "images": [
+        "images/359-1.jpg"
+      ],
+      "prompts": [
+        "A captivating black and white close-up portrait of a beautiful young Asian woman with flawless skin, short bob haircut featuring straight blunt bangs framing her forehead, eyes gently closed with long lashes, subtle pouty lips, serene and introspective expression, wearing a form-fitting deep V-neck black ribbed sweater that accentuates her, a delicate thin necklace with a small pendant, dramatic side lighting from the left creating strong shadows and highlights on her face, neck, and shoulders, high contrast chiaroscuro style, minimalist studio background with soft gradient from light to dark, photorealistic, vintage film grain effect, high detail, emotional and mysterious atmosphere.",
+        "迷人的黑白特写肖像，美丽年轻亚洲女性，肌肤无瑕，短发波波头配齐刘海，双眼轻闭长睫毛微翘，微撅的嘴唇，宁静内省的表情，身穿修身深V领黑色罗纹针织衫突显身材，佩戴细巧项链带小吊坠，左侧戏剧性侧光在脸部、颈部和肩部创造强烈阴影和高光，高对比度明暗对比风格，极简主义影棚背景，从浅到深的柔和渐变，照片级真实，复古胶片颗粒效果，高细节，情感和神秘氛围。"
+      ],
+      "examples": [],
+      "notes": [],
+      "originFile": "300.md",
+      "description": "",
+      "tags": [
+        "portrait",
+        "black and white",
+        "dramatic lighting",
+        "Asian",
+        "chiaroscuro"
+      ],
+      "coverImage": "images/359-1.jpg"
+    },
     {
       "id": 358,
       "slug": "prompt-358",
