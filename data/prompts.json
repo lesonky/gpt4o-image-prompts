@@ -1,7 +1,36 @@
 {
-  "generatedAt": "2025-10-20T16:09:03.141Z",
-  "total": 357,
+  "generatedAt": "2025-10-21T09:08:37.159Z",
+  "total": 358,
   "items": [
+    {
+      "id": 358,
+      "slug": "prompt-358",
+      "title": "影棚蕾丝深V时尚肖像",
+      "source": {
+        "name": "@cnyzgkc",
+        "url": "https://twitter.com/cnyzgkc/status/1980469269134733415"
+      },
+      "images": [
+        "images/358-1.jpg",
+        "images/358-2.jpg",
+        "images/358-3.png",
+        "images/358-4.png"
+      ],
+      "prompts": [
+        "Ultra-detailed, photorealistic portrait of a beautiful woman, high fashion editorial, deep white plunging V-neck lace sequined evening gown, elegant low bun updo, soft studio lighting, light grey background, dramatic shadowplay, hyperrealistic, 8K",
+        "超细节、照片级真实的美丽女性肖像，高级时尚杂志风格。白色深V蕾丝亮片晚礼服，优雅的低发髻盘发，柔和的影棚灯光，浅灰背景，戏剧性的光影对比，超现实质感，8K。"
+      ],
+      "examples": [],
+      "notes": [],
+      "originFile": "300.md",
+      "description": "",
+      "tags": [
+        "fashion",
+        "photography",
+        "portrait"
+      ],
+      "coverImage": "images/358-3.png"
+    },
     {
       "id": 357,
       "slug": "prompt-357",
