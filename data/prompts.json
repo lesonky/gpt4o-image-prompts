@@ -1,7 +1,32 @@
 {
-  "generatedAt": "2025-10-22T05:54:06.360Z",
-  "total": 360,
+  "generatedAt": "2025-10-22T06:00:00.000Z",
+  "total": 361,
   "items": [
+    {
+      "id": 361,
+      "slug": "prompt-361",
+      "title": "查理和劳拉风格角色转换",
+      "source": {
+        "name": "@ShreyaYadav___",
+        "url": "https://twitter.com/ShreyaYadav___/status/1980847374324162682"
+      },
+      "images": [
+        "https://pbs.twimg.com/media/G31iLjKXEAAv1pt?format=jpg&name=medium"
+      ],
+      "prompts": [
+        "Transform the subject from the uploaded image into a character in the style of Charlie and Lola (children's cartoon). Match the official cartoon look — thin sketchy outlines, flat colors, childlike proportions, playful hand-drawn charm, and simple textures.Retain the subject's original clothing, hairstyle, facial features, accessories, skin tone, pose, and expression — but reinterpret them as if they belong in the Charlie and Lola world. plain white background to keep the focus on the character",
+        "将上传图片中的主题转换为查理和劳拉（儿童卡通）风格的角色。匹配官方卡通外观——细线轮廓、平面色彩、儿童比例、俏皮手绘魅力和简单纹理。保留主题原有的服装、发型、面部特征、配饰、肤色、姿势和表情——但重新诠释它们，仿佛它们属于查理和劳拉的世界。纯白色背景以保持焦点在角色上"
+      ],
+      "examples": [],
+      "notes": [],
+      "originFile": "300.md",
+      "description": "",
+      "tags": [
+        "cartoon",
+        "character"
+      ],
+      "coverImage": "https://pbs.twimg.com/media/G31iLjKXEAAv1pt?format=jpg&name=medium"
+    },
     {
       "id": 360,
       "slug": "prompt-360",
