@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-10-22T06:00:00.000Z",
+  "generatedAt": "2025-10-22T06:30:17.570Z",
   "total": 361,
   "items": [
     {
@@ -11,7 +11,7 @@
         "url": "https://twitter.com/ShreyaYadav___/status/1980847374324162682"
       },
       "images": [
-        "https://pbs.twimg.com/media/G31iLjKXEAAv1pt?format=jpg&name=medium"
+        "images/361.jpeg"
       ],
       "prompts": [
         "Transform the subject from the uploaded image into a character in the style of Charlie and Lola (children's cartoon). Match the official cartoon look — thin sketchy outlines, flat colors, childlike proportions, playful hand-drawn charm, and simple textures.Retain the subject's original clothing, hairstyle, facial features, accessories, skin tone, pose, and expression — but reinterpret them as if they belong in the Charlie and Lola world. plain white background to keep the focus on the character",
@@ -23,9 +23,11 @@
       "description": "",
       "tags": [
         "cartoon",
-        "character"
+        "character",
+        "fashion",
+        "vehicle"
       ],
-      "coverImage": "https://pbs.twimg.com/media/G31iLjKXEAAv1pt?format=jpg&name=medium"
+      "coverImage": "images/361.jpeg"
     },
     {
       "id": 360,
@@ -82,7 +84,7 @@
         "portrait",
         "retro"
       ],
-      "coverImage": "images/359-2.png"
+      "coverImage": "images/359-1.jpg"
     },
     {
       "id": 358,
