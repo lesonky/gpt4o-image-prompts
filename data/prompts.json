@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-10-22T00:00:00.000Z",
+  "generatedAt": "2025-10-22T05:54:06.360Z",
   "total": 360,
   "items": [
     {
@@ -23,9 +23,7 @@
       "description": "",
       "tags": [
         "portrait",
-        "black and white",
-        "studio",
-        "Asian"
+        "vehicle"
       ],
       "coverImage": "images/360-1.jpg"
     },
@@ -38,24 +36,28 @@
         "url": "https://twitter.com/MANISH1027512/status/1980278681927877032"
       },
       "images": [
-        "images/359-1.jpg"
+        "images/359-1.jpg",
+        "images/359-2.png"
       ],
       "prompts": [
         "A captivating black and white close-up portrait of a beautiful young Asian woman with flawless skin, short bob haircut featuring straight blunt bangs framing her forehead, eyes gently closed with long lashes, subtle pouty lips, serene and introspective expression, wearing a form-fitting deep V-neck black ribbed sweater that accentuates her, a delicate thin necklace with a small pendant, dramatic side lighting from the left creating strong shadows and highlights on her face, neck, and shoulders, high contrast chiaroscuro style, minimalist studio background with soft gradient from light to dark, photorealistic, vintage film grain effect, high detail, emotional and mysterious atmosphere.",
-        "迷人的黑白特写肖像，美丽年轻亚洲女性，肌肤无瑕，短发波波头配齐刘海，双眼轻闭长睫毛微翘，微撅的嘴唇，宁静内省的表情，身穿修身深V领黑色罗纹针织衫突显身材，佩戴细巧项链带小吊坠，左侧戏剧性侧光在脸部、颈部和肩部创造强烈阴影和高光，高对比度明暗对比风格，极简主义影棚背景，从浅到深的柔和渐变，照片级真实，复古胶片颗粒效果，高细节，情感和神秘氛围。"
+        "迷人的黑白特写肖像，美丽年轻亚洲女性，肌肤无瑕，短发波波头配齐刘海，双眼轻闭长睫毛微翘，微撅的嘴唇，宁静内省的表情，身穿修身深V领黑色罗纹针织衫突显身材，佩戴细巧项链带小吊坠，左侧戏剧性侧光在脸部、颈部和肩部创造强烈阴影和高光，高对比度明暗对比风格，极简主义影棚背景，从浅到深的柔和渐变，照片级真实，复古胶片颗粒效果，高细节，情感和神秘氛围。",
+        "a woman standing confidently in a minimalist studio, shot from a slightly low angle, half-body portrait, her head tilted slightly down with a calm and enigmatic expression, middle-parted braided pigtails with a few loose strands falling over her face, subtle wet hair texture, wearing a tight black sleeveless dress and black leather gloves, holding a leather belt loosely in front of her body — dramatic single key light from upper right, high contrast, black and white tones, strong rim light accentuating her curves, plain textured wall background, cinematic noir atmosphere, fine art fashion photography, inspired by Helmut Newton and Peter Coulson, shallow depth of field, smooth gradients, elegant and powerful mood",
+        "一个女人自信地站在极简主义工作室中，从略低的视角拍摄，半身肖像，她头部略微向下倾斜，表情平静而神秘，中分麻花辫，几缕松散的发丝垂落在脸庞，微妙的湿发质感，身穿紧身黑色无袖连衣裙和黑色皮手套，双手松散地在身体前方拿着一条皮带——戏剧性的主光从右上角射入，高对比度，黑白影调，强烈的轮廓光勾勒出她的曲线，纯粹的纹理墙背景，电影黑色氛围，艺术时尚摄影，受赫尔穆特·牛顿和彼得··库尔森启发，浅景深，平滑渐变，优雅而强大的氛围"
       ],
       "examples": [],
       "notes": [],
       "originFile": "300.md",
       "description": "",
       "tags": [
+        "fashion",
+        "minimalist",
+        "nature",
+        "photography",
         "portrait",
-        "black and white",
-        "dramatic lighting",
-        "Asian",
-        "chiaroscuro"
+        "retro"
       ],
-      "coverImage": "images/359-1.jpg"
+      "coverImage": "images/359-2.png"
     },
     {
       "id": 358,
@@ -84,7 +86,7 @@
         "photography",
         "portrait"
       ],
-      "coverImage": "images/358-3.png"
+      "coverImage": "images/358-1.jpg"
     },
     {
       "id": 357,
