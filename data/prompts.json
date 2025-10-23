@@ -1,7 +1,50 @@
 {
-  "generatedAt": "2025-10-22T06:30:17.570Z",
-  "total": 361,
+  "generatedAt": "2025-10-23T04:18:35.791Z",
+  "total": 362,
   "items": [
+    {
+      "id": 362,
+      "slug": "prompt-362",
+      "title": "漫展同姿易拉宝与真人coser",
+      "source": {
+        "name": "@Tz_2022",
+        "url": "https://twitter.com/Tz_2022/status/1971639248584352230"
+      },
+      "images": [
+        "images/362-1.jpg",
+        "images/362-2.jpg",
+        "images/362-3.jpg",
+        "images/362-4.jpg",
+        "images/362-5.jpg",
+        "images/362-6.jpg",
+        "images/362-7.jpg",
+        "images/362-8.jpg"
+      ],
+      "prompts": [
+        "Scene: An anime/game convention hall. A life-size vertical roll-up banner (85×200cm, visible aluminum base with feet and top clamp bar, matte anti-glare finish) stands on the left, displaying the original character from the uploaded reference image. A real human cosplayer stands on the right, wearing an exact replica costume that perfectly matches the banner character (precise match of hairstyle, hair color, outfit details, accessories, props), striking the same pose as the banner (not mirrored). Background shows bokeh crowd and convention booths.\n\nCamera settings: 45mm focal length, f/3.2 aperture, eye-level slight low angle, full-body framing, shallow depth of field, sharp subjects with bokeh background.\n\nLighting: Soft convention expo lighting, neutral color temperature.\n\nQuality: Cinematic quality, 4K resolution, realistic photography style.\n\nNegative prompt: easel, foam board, tabletop poster, text, logos, mirrored pose, different outfit, extra limbs, hand deformation, blurry, overexposed",
+        "场景：动漫游戏展会大厅，一个真人大小的竖版易拉宝（85×200cm，铝制底座和顶杆可见，哑光防眩光材质）立在左侧，展示上传图片中的角色原版形象。右侧站着一位真人Coser，穿着与易拉宝上角色完全一致的服装（精确匹配发型、发色、服装细节、配饰、道具），摆出与易拉宝相同的姿势（不镜像）。背景是虚化的展会人群和摊位。\n\n相机参数：45mm焦距，f/3.2光圈，平视略低角度，全身框架，浅景深，主体清晰背景虚化。\n\n光线：柔和的展会照明，自然色温。\n\n质量要求：电影级画质，4K分辨率，真实摄影风格。\n\n负面提示词：画架，泡沫板，桌面海报，文字，Logo，镜像姿势，不同服装，多余肢体，手部畸形，模糊，过曝",
+        "[Subject] A professional photographic work showing a cosplay scene at an anime/game convention\n\n[Layout]\n- Left: Vertical roll-up banner (85×200cm), fully visible including base stabilizer feet, rear tension pole, aluminum top clamp bar\n- Right: Full-body shot of real human cosplayer, small gap from banner\n- Banner content: Character from uploaded reference image, edge-to-edge borderless print, 200-micron PET matte film\n\n[Cosplayer Requirements]\n- Costume: Exact 1:1 replica of banner character (hair parting, bang length, garment cut, color blocking, lace patterns, accessory placement, footwear)\n- Pose: Perfectly synchronized with banner (limb angles, weight shift, head tilt, gaze direction, finger shapes) in same orientation, NOT mirrored\n- Props: All props must be present, held in same hand and orientation as banner\n- Makeup: Convention-ready professional makeup\n- Wig: Precise match of character hair color and style\n\n[Environment]\n- Location: Indoor exhibition hall\n- Background: Medium bokeh crowd and booth backdrops, no legible text\n- Lighting: Convention softboxes plus overhead lighting, neutral white balance\n\n[Camera Technical Parameters]\n- Focal length: 45mm (portrait standard)\n- Aperture: f/3.2 (shallow DoF)\n- Angle: Eye-level with 5-10 degree low tilt\n- Framing: Full-body composition ensuring complete banner from base to top bar\n- Depth of field: Sharp subjects, soft bokeh background\n- Color: Cinematic grading, neutral tones\n\n[Quality Control]\n- Resolution: 4K\n- Style: Documentary photography\n- Sharpness: Maximum priority, no motion blur\n- Color management: Strict lock to character's original palette\n\n[Negative Prompt]\neasel, tripod easel, foam board, white border poster, tabletop poster, standee cutout, curling edges, brand logos, legible text, alternate outfit, redesign, style variation, blindfold, sunglasses, maid dress, apron, missing props, wrong color scheme, different hairstyle, wig color mismatch, different pose, mirrored pose, extra limbs, hand deformation, blurry banner, overexposed, duplicated subjects",
+        "【主体】一张专业摄影作品，展示动漫/游戏展会现场的Cosplay场景\n\n【布局】\n- 左侧：竖版易拉宝（85×200cm），完整可见包括底座稳定脚、后置张力杆、顶部铝制夹杆\n- 右侧：真人Coser全身像，与易拉宝保持小间隙\n- 易拉宝内容：上传参考图中的角色，无边框满版印刷，200微米PET哑光膜\n\n【Coser要求】\n- 服装：1:1精确还原易拉宝角色（发型分线、刘海长度、服装剪裁、颜色分块、蕾丝图案、配饰位置、鞋款）\n- 姿势：与易拉宝完全同步（肢体角度、重心偏移、头部倾斜、视线方向、手指形态）保持一致，禁止镜像\n- 道具：所有道具必须出现，持握手和朝向与易拉宝一致\n- 化妆：展会级专业妆容\n- 假发：精确匹配角色发色和发型\n\n【环境】\n- 地点：室内展览馆\n- 背景：中等虚化的人群和展位背景墙，无可辨识文字\n- 光线：展会柔光箱+顶部照明，中性白平衡\n\n【相机技术参数】\n- 焦距：45mm（人像标准焦段）\n- 光圈：f/3.2（浅景深）\n- 视角：平视偏低5-10度\n- 取景：全身构图，确保易拉宝底座到顶杆完整入框\n- 景深：主体锐利，背景柔和虚化\n- 色彩：电影感调色，中性色调\n\n【质量控制】\n- 分辨率：4K\n- 风格：纪实摄影\n- 清晰度：最高优先级，无运动模糊\n- 色彩管理：严格锁定角色原版配色\n\n【负面提示词】\n画架、三脚架画架、泡沫板、白边海报、桌面海报、立牌、边缘卷曲、品牌Logo、可辨文字、替代服装、重新设计、风格变体、眼罩、太阳镜、女仆装、围裙、缺失道具、错误配色、不同发型、假发颜色不符、不同姿势、镜像姿势、多余肢体、手部畸形、易拉宝模糊、过曝、主体重复"
+      ],
+      "examples": [],
+      "notes": [],
+      "originFile": "300.md",
+      "description": "",
+      "tags": [
+        "branding",
+        "character",
+        "fashion",
+        "gaming",
+        "interior",
+        "landscape",
+        "logo",
+        "nature",
+        "photography",
+        "portrait",
+        "poster"
+      ],
+      "coverImage": "images/362-1.jpg"
+    },
     {
       "id": 361,
       "slug": "prompt-361",
