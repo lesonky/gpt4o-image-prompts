@@ -1,7 +1,129 @@
 {
-  "generatedAt": "2025-10-23T04:18:35.791Z",
-  "total": 362,
+  "generatedAt": "2025-10-25T16:38:18.775Z",
+  "total": 367,
   "items": [
+    {
+      "id": 367,
+      "slug": "prompt-367",
+      "title": "医疗专业形象照",
+      "source": {
+        "name": "@cheerselflin",
+        "url": "https://x.com/cheerselflin/status/1982030831834300801"
+      },
+      "images": [
+        "images/367.png"
+      ],
+      "prompts": [
+        "Edit this image. I need a professional, high-resolution, profile photo, maintaining the exact facial structure, identity, and key features of the person in the input image. The subject is framed from the chest up, with ample headroom and negative space above their head, ensuring the top of their head is not cropped. The person looks directly at the camera with a trustworthy, compassionate expression, and the subject's body is positioned directly facing the camera with excellent posture. They are styled for a professional photo studio shoot, wearing a crisp white medical coat over a light blue collared shirt. The background is a solid '#141414' neutral studio. Shot from a high angle with bright and airy soft, diffused studio lighting, gently illuminating the face and creating a subtle catchlight in the eyes, conveying a sense of expertise and care. Captured on an 85mm f/1.8 lens with a shallow depth of field, exquisite focus on the eyes, and beautiful, soft bokeh. Observe crisp detail on the fabric texture of the medical coat, individual strands of hair, and natural, realistic skin texture，keep the glass if the picture has .. The atmosphere exudes confidence, trustworthiness, and medical professionalism. Clean and bright cinematic color grading with subtle warmth and balanced tones, ensuring a polished and contemporary feel."
+      ],
+      "examples": [],
+      "notes": [],
+      "originFile": "300.md",
+      "description": "",
+      "tags": [
+        "interior",
+        "photography",
+        "vehicle"
+      ],
+      "coverImage": "images/367.png"
+    },
+    {
+      "id": 366,
+      "slug": "prompt-366",
+      "title": "现代创新形象照",
+      "source": {
+        "name": "@cheerselflin",
+        "url": "https://x.com/cheerselflin/status/1982030831834300801"
+      },
+      "images": [
+        "images/366.png"
+      ],
+      "prompts": [
+        "Edit this image. I need a professional, high-resolution, profile photo, maintaining the exact facial structure, identity, and key features of the person in the input image. The subject is framed from the chest up, with ample headroom and negative space above their head, ensuring the top of their head is not cropped. The person looks directly at the camera with a relaxed, approachable expression, and the subject's body is casually positioned with a slight lean. They are styled for a professional photo studio shoot, wearing a modern henley shirt in heather gray with rolled sleeves. The background is a solid '#141414' neutral studio. Shot from a high angle with bright and airy soft, diffused studio lighting, gently illuminating the face and creating a subtle catchlight in the eyes, conveying a sense of innovation and accessibility. Captured on an 85mm f/1.8 lens with a shallow depth of field, exquisite focus on the eyes, and beautiful, soft bokeh. Observe crisp detail on the fabric texture of the henley, individual strands of hair, and natural, realistic skin texture，keep the glass if the picture has . The atmosphere exudes confidence, innovation, and modern professionalism. Clean and bright cinematic color grading with subtle warmth and balanced tones, ensuring a polished and contemporary feel."
+      ],
+      "examples": [],
+      "notes": [],
+      "originFile": "300.md",
+      "description": "",
+      "tags": [
+        "interior",
+        "photography"
+      ],
+      "coverImage": "images/366.png"
+    },
+    {
+      "id": 365,
+      "slug": "prompt-365",
+      "title": "创意专业形象照",
+      "source": {
+        "name": "@cheerselflin",
+        "url": "https://x.com/cheerselflin/status/1982030831834300801"
+      },
+      "images": [
+        "images/365.png"
+      ],
+      "prompts": [
+        "Edit this image. I need a professional, high-resolution, profile photo, maintaining the exact facial structure, identity, and key features of the person in the input image. The subject is framed from the chest up, with ample headroom and negative space above their head, ensuring the top of their head is not cropped. The person looks directly at the camera with a warm, creative expression, and the subject's body is positioned at a subtle angle with one shoulder slightly forward. They are styled for a professional photo studio shoot, wearing a well-fitted black turtleneck with a contemporary texture. The background is a solid '#141414' neutral studio. Shot from a high angle with bright and airy soft, diffused studio lighting, gently illuminating the face and creating a subtle catchlight in the eyes, conveying a sense of artistic vision and innovation. Captured on an 85mm f/1.8 lens with a shallow depth of field, exquisite focus on the eyes, and beautiful, soft bokeh. Observe crisp detail on the fabric texture of the turtleneck, individual strands of hair, and natural, realistic skin texture, keep the glass if the picture has . The atmosphere exudes confidence, creativity, and artistic professionalism. Clean and bright cinematic color grading with subtle warmth and balanced tones, ensuring a polished and contemporary feel."
+      ],
+      "examples": [],
+      "notes": [],
+      "originFile": "300.md",
+      "description": "",
+      "tags": [
+        "interior",
+        "photography"
+      ],
+      "coverImage": "images/365.png"
+    },
+    {
+      "id": 364,
+      "slug": "prompt-364",
+      "title": "学术专业形象照",
+      "source": {
+        "name": "@cheerselflin",
+        "url": "https://x.com/cheerselflin/status/1982030831834300801"
+      },
+      "images": [
+        "images/364.png"
+      ],
+      "prompts": [
+        "Edit this image. I need a professional, high-resolution, profile photo, maintaining the exact facial structure, identity, and key features of the person in the input image. The subject is framed from the chest up, with ample headroom and negative space above their head, ensuring the top of their head is not cropped. The person looks directly at the camera with a thoughtful, intellectual expression, and the subject's body is positioned with a slight thoughtful tilt. They are styled for a professional photo studio shoot, wearing a classic tweed sport coat over a cream-colored sweater. The background is a solid '#141414' neutral studio. Shot from a high angle with bright and airy soft, diffused studio lighting, gently illuminating the face and creating a subtle catchlight in the eyes, conveying a sense of wisdom and expertise. Captured on an 85mm f/1.8 lens with a shallow depth of field, exquisite focus on the eyes, and beautiful, soft bokeh. Observe crisp detail on the fabric texture of the tweed, individual strands of hair, and natural, realistic skin texture，keep the glass if the picture has. The atmosphere exudes confidence, intellectual authority, and academic professionalism. Clean and bright cinematic color grading with subtle warmth and balanced tones, ensuring a polished and contemporary feel."
+      ],
+      "examples": [],
+      "notes": [],
+      "originFile": "300.md",
+      "description": "",
+      "tags": [
+        "interior",
+        "photography"
+      ],
+      "coverImage": "images/364.png"
+    },
+    {
+      "id": 363,
+      "slug": "prompt-363",
+      "title": "商务专业形象照",
+      "source": {
+        "name": "@cheerselflin",
+        "url": "https://x.com/cheerselflin/status/1982030831834300801"
+      },
+      "images": [
+        "images/363.png"
+      ],
+      "prompts": [
+        "Edit this image. I need a professional, high-resolution, profile photo, maintaining the exact facial structure, identity, and key features of the person in the input image. The subject is framed from the chest up, with ample headroom and negative space above their head, ensuring the top of their head is not cropped. The person looks directly at the camera with a confident, authoritative expression, and the subject's body is positioned at a slight 3/4 angle to the camera. They are styled for a professional photo studio shoot, wearing a premium navy business suit with a crisp white dress shirt and understated tie. The background is a solid '#141414' neutral studio. Shot from a high angle with bright and airy soft, diffused studio lighting, gently illuminating the face and creating a subtle catchlight in the eyes, conveying a sense of authority and leadership. Captured on an 85mm f/1.8 lens with a shallow depth of field, exquisite focus on the eyes, and beautiful, soft bokeh. Observe crisp detail on the fabric texture of the suit, individual strands of hair, and natural, realistic skin texture. The atmosphere exudes confidence, professionalism, and executive presence. Clean and bright cinematic color grading with subtle warmth and balanced tones, ensuring a polished and contemporary feel."
+      ],
+      "examples": [],
+      "notes": [],
+      "originFile": "300.md",
+      "description": "",
+      "tags": [
+        "interior",
+        "photography",
+        "vehicle"
+      ],
+      "coverImage": "images/363.png"
+    },
     {
       "id": 362,
       "slug": "prompt-362",
@@ -1224,7 +1346,7 @@
         "images/320.jpeg"
       ],
       "prompts": [
-        "Transform the [OBJECT] from the uploaded photo into a bold, colorful cartoon illustration style, while keeping the rest of the photo realistic and unchanged. \n\nCartoon style details: thick black outlines, vibrant flat colors (such as bright cyan, magenta, yellow, pink), dripping paint and splash effects, playful comic-book energy.  most drips flow downwards\nThe cartoon object should look like it is melting or bursting with colors, blending naturally into the real photo. \n\nKeep all other elements (background, other objects, environment) photorealistic with no alterations. \nHigh resolution, pop-art aesthetic, surreal contrast between realism and cartoon.",
+        "Transform the [OBJECT] from the uploaded photo into a bold, colorful cartoon illustration style, while keeping the rest of the photo realistic and unchanged.\n\nCartoon style details: thick black outlines, vibrant flat colors (such as bright cyan, magenta, yellow, pink), dripping paint and splash effects, playful comic-book energy.  most drips flow downwards\nThe cartoon object should look like it is melting or bursting with colors, blending naturally into the real photo.\n\nKeep all other elements (background, other objects, environment) photorealistic with no alterations.\nHigh resolution, pop-art aesthetic, surreal contrast between realism and cartoon.",
         "将上传照片中的 [OBJECT] 转换为大胆、色彩鲜艳的卡通插图风格，同时保持照片的其余部分真实且不变。\n\n卡通风格细节：粗黑色轮廓，鲜艳的平面色彩（如亮青色、洋红色、黄色、粉红色），滴落的油漆和飞溅效果，俏皮的漫画风格。大多数滴落的油漆向下流动\n卡通物体看起来应该像是融化了或者迸发出色彩，自然地融入到真实的照片中。\n\n保持所有其他元素（背景、其他物体、环境）的真实感，不做任何改动。\n高分辨率、波普艺术美学、现实主义与卡通之间的超现实对比。"
       ],
       "examples": [],
@@ -1366,7 +1488,7 @@
         "images/315.jpeg"
       ],
       "prompts": [
-        "Funko Pop–style vinyl figure of [CHARACTER NAME] \nWearing the iconic outfit and accessories typically associated with [CHARACTER], automatically matching their signature style and details.  \n\nPose/Expression:\n- Standing, looking upward toward the camera  \n- Expression: curious yet slightly nonchalant  \n\nCAMERA & LENS:\n- Camera positioned directly above, very close  \n- Ultra-wide fisheye lens for dramatic perspective distortion  \n- Gentle rounded frame edges  \n\nLIGHTING & MATERIALS:\n- Soft studio lighting with gentle shadows  \n- Glossy vinyl figure texture for skin and hair  \n- Outfit materials accentuated (e.g. quilted, shiny, matte, etc.) depending on [CHARACTER]’s clothing  \n\nRENDER STYLE:\n- High-resolution 3D render  \n- Clean neutral background (solid or gradient)  \n- Ultra sharp, collectible toy aesthetic",
+        "Funko Pop–style vinyl figure of [CHARACTER NAME]\nWearing the iconic outfit and accessories typically associated with [CHARACTER], automatically matching their signature style and details.\n\nPose/Expression:\n- Standing, looking upward toward the camera\n- Expression: curious yet slightly nonchalant\n\nCAMERA & LENS:\n- Camera positioned directly above, very close\n- Ultra-wide fisheye lens for dramatic perspective distortion\n- Gentle rounded frame edges\n\nLIGHTING & MATERIALS:\n- Soft studio lighting with gentle shadows\n- Glossy vinyl figure texture for skin and hair\n- Outfit materials accentuated (e.g. quilted, shiny, matte, etc.) depending on [CHARACTER]’s clothing\n\nRENDER STYLE:\n- High-resolution 3D render\n- Clean neutral background (solid or gradient)\n- Ultra sharp, collectible toy aesthetic",
         "[角色名称] 的 Funko Pop 风格乙烯基公仔\n身着通常与 [角色] 相关联的标志性服装及配饰，其标志性风格与细节特征均自然呈现。\n姿势 / 表情\n站姿，抬头望向镜头\n表情：好奇中略带漫不经心\n相机与镜头\n相机直接置于正上方，距离极近\n超宽鱼眼镜头，营造极具张力的透视畸变效果\n柔和的圆角画框边缘\n光线与材质\n柔和的工作室灯光，搭配自然阴影\n公仔皮肤与头发采用亮面乙烯基材质质感\n服装材质细节突出（如绗缝、亮面、哑光等），具体依 [角色] 的服饰特点而定\n渲染风格\n高分辨率 3D 渲染\n简洁的中性背景（纯色或渐变色）\n极致清晰的收藏级玩具美学风格"
       ],
       "examples": [],
@@ -1475,7 +1597,7 @@
         "images/311.jpeg"
       ],
       "prompts": [
-        "cut cleanly THE [OBJECT] in half across the middle, the top and bottom halves slightly separated and floating apart.  \nBetween the halves, instead of the natural inside, there is a stylized cartoon nuclear explosion effect: a central vertical column of glowing yellow-orange bubble smoke, with a wide horizontal shockwave ring of round bubbly clouds spreading to the sides, fiery glowing highlights above and below the shockwave, creating the impression of intense heat and energy\nThe outside of the [OBJECT] remains photorealistic with detailed texture and lighting, while the inner effect is highly graphic and playful, giving a striking contrast between realism and cartoon. Studio lighting, centered composition",
+        "cut cleanly THE [OBJECT] in half across the middle, the top and bottom halves slightly separated and floating apart.\nBetween the halves, instead of the natural inside, there is a stylized cartoon nuclear explosion effect: a central vertical column of glowing yellow-orange bubble smoke, with a wide horizontal shockwave ring of round bubbly clouds spreading to the sides, fiery glowing highlights above and below the shockwave, creating the impression of intense heat and energy\nThe outside of the [OBJECT] remains photorealistic with detailed texture and lighting, while the inner effect is highly graphic and playful, giving a striking contrast between realism and cartoon. Studio lighting, centered composition",
         "将 [物体] 从中间干净利落地切成两半，上半部分和下半部分稍微分开并漂浮。\n在两半之间，不是自然的内部，而是一种风格化的卡通核爆炸效果：中央垂直柱状发光的黄橙色气泡烟雾，周围扩散着一圈宽阔的水平冲击波环，圆形气泡云，冲击波上方和下方有炽热的光芒，营造出强烈的热量和能量的印象\n[OBJECT] 的外部依然保持着照片级的真实感，纹理和灯光细节丰富；而内部效果则极具画面感，趣味十足，在现实主义和卡通风格之间形成了鲜明的对比。工作室灯光，居中构图"
       ],
       "examples": [],
