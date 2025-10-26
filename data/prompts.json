@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-10-26T16:38:18.775Z",
+  "generatedAt": "2025-10-26T02:46:48.212Z",
   "total": 369,
   "items": [
     {
@@ -11,7 +11,7 @@
         "url": "https://x.com/ShreyaYadav___/status/1982273721340678274"
       },
       "images": [
-        "images/369.png"
+        "images/369.jpeg"
       ],
       "prompts": [
         "Create an artwork of leaf carving art made from a dried, oval-shaped leaf, featuring precisely carved details that form a portrait or object based on the reference in my photo. Additionally, include the text \"Yadav\" carved elegantly along the upper curve of the leaf. The leaf is intricately carved so that light passes through the delicate patterns on its surface. The carving result reveals a realistic and detailed silhouette. The background shows a natural landscape with a bright blue sky, green trees, or natural cliffs. The focus is sharp on the leaf, with a soft bokeh background, warm natural lighting, high realism, and a macro photography style."
@@ -21,12 +21,12 @@
       "originFile": "300.md",
       "description": "",
       "tags": [
-        "art",
-        "nature",
-        "macro",
-        "portrait"
+        "landscape",
+        "photography",
+        "portrait",
+        "vehicle"
       ],
-      "coverImage": "images/369.png"
+      "coverImage": "images/369.jpeg"
     },
     {
       "id": 368,
@@ -37,7 +37,7 @@
         "url": "https://x.com/ShreyaYadav___/status/1982140087443095742"
       },
       "images": [
-        "images/368.png"
+        "images/368.jpeg"
       ],
       "prompts": [
         "Ultra realistic photorealistic capture of a young woman with a tiny head in a giant bathroom, struggling comically. Keep uploaded face consistent and unchanged. She is actively washing her face and brushing her teeth in a sink that looms too large, standing precariously on an oversized tube of toothpaste. Her hand grasps a toothbrush the size of herself, creating a struggle to reach her teeth, while water dramatically splashes across her face and slightly messy hair. A funny, surprised expression, as if water has splashed unexpectedly into her eyes, conveys genuine emotion amidst her loose t-shirt and cute cartoon shorts. Her hair is styled in a high bun or with small, brightly colored clips, illuminated by gentle morning sunlight streaming through a clean window, casting soft ambient light and natural shadows across the scene. Shot on an 85mm lens at f/2.0, this professional photography piece features high resolution, natural color grading with a subtle film look, detailed textures, and a photorealistic quality, emphasizing her authentic struggle and expressions, with a 2:3 aspect ratio."
@@ -47,12 +47,12 @@
       "originFile": "300.md",
       "description": "",
       "tags": [
+        "cartoon",
+        "interior",
         "photography",
-        "realistic",
-        "humor",
-        "giant"
+        "vehicle"
       ],
-      "coverImage": "images/368.png"
+      "coverImage": "images/368.jpeg"
     },
     {
       "id": 367,
