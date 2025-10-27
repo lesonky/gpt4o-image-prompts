@@ -1,7 +1,33 @@
 {
-  "generatedAt": "2025-10-26T02:46:48.212Z",
-  "total": 369,
+  "generatedAt": "2025-10-27T01:25:30.294Z",
+  "total": 370,
   "items": [
+    {
+      "id": 370,
+      "slug": "prompt-370",
+      "title": "复古怀旧艺术感",
+      "source": null,
+      "images": [
+        "images/370-1.png",
+        "images/370-2.png"
+      ],
+      "prompts": [
+        "Based on the uploaded image, generate an image using the facial features from the uploaded image. This image utilizes soft natural light to create a warm and tranquil atmosphere. Low saturation tones and film grain effects add a retro and nostalgic artistic feel. In composition, the subject dominates the frame with dynamic curves and a pose full of feminine charm, with natural and intimate eye contact with the viewer. The use of light and shadow is exquisite, highlighting skin texture and body contours, especially the shadow details at the neckline and legs, adding depth to the image. From a designer's perspective, the image balances comfort and sensuality in visual communication. The main colors of beige and light brown provide a soft and minimalist visual feel, suitable for home, fashion, or lifestyle design themes. The subject's attire and posture emphasize casual relaxation, conveying a \"private, leisurely\" life scenario. The grain and aged effects serve as texture design elements to enhance the overall style, making it more personalized and story-driven. Overall, it is a highly emotional and stylized portrait work.",
+        "基于上传的照片生成新图像，保持原图中的面部特征一致。画面使用柔和自然光营造温暖宁静的氛围，低饱和配色与胶片颗粒强化复古怀旧的艺术感。构图中人物充满动态曲线与女性魅力，主体占据画面，与观者保持自然亲密的目光交流。巧妙运用光影突出皮肤质感与身体轮廓，特别强调颈线与腿部阴影层次，增强画面深度。从设计角度看，应在视觉传达中平衡舒适感与性感。主色调以米色和浅棕为主，营造柔和极简的视觉体验，适用于家居、时尚或生活方式主题。人物服饰与姿态强调随性放松，传达'私享、悠闲'的生活情境。颗粒与做旧效果作为纹理设计元素提升整体风格的个性与叙事感，呈现富有情绪与风格化的肖像作品。"
+      ],
+      "examples": [],
+      "notes": [],
+      "originFile": "300.md",
+      "description": "",
+      "tags": [
+        "fashion",
+        "minimalist",
+        "nature",
+        "portrait",
+        "retro"
+      ],
+      "coverImage": "images/370-1.png"
+    },
     {
       "id": 369,
       "slug": "prompt-369",
