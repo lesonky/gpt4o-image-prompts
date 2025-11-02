@@ -11,7 +11,7 @@
         "url": "https://t.co/RNs3OrURbK"
       },
       "images": [
-        "images/373.jpeg"
+        "images/373.png"
       ],
       "prompts": [
         "Create a hyper-realistic cinematic portrait of the same person from the reference photo. The person should keep their real facial features, hairstyle, skin tone, and clothing. They stand confidently at the center of a detailed and imaginative toy-style scene.\n\nThe concept resembles a highly detailed collectible action figure display: the person is surrounded by famous cartoon and pop culture characters. Include Goku from Dragon Ball (in his orange gi, glowing aura effect), Spider-Man posing dynamically, Scooby-Doo standing beside them, Tom and Jerry interacting playfully near their feet, Bugs Bunny and Daffy Duck on one side, and a few Pokémon (like Pikachu, Charizard, and Bulbasaur) adding color and energy to the scene.\n\nThe base (pedestal) should look artistic and elaborate, inspired by toy collections or action figure dioramas - detailed textures, miniature props, and references to each character's universe.\n\nLighting & atmosphere: Warm cinematic lighting with soft shadows, slightly glowing highlights that make the scene look like a premium collectible statue under a display spotlight. The environment feels cozy and magical, mixing realism and fantasy with depth of field and realistic reflections.\n\nCamera setup: Eye-level shot with slightly wide framing to capture both the person and the characters around them. High detail, ultra-realistic materials, subtle background blur, 8K quality.",
@@ -28,7 +28,7 @@
         "cinematic",
         "portrait"
       ],
-      "coverImage": "images/373.jpeg"
+      "coverImage": "images/373.png"
     },
     {
       "id": 372,
