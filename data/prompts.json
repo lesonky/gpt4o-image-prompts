@@ -1,7 +1,65 @@
 {
   "generatedAt": "2025-10-27T01:25:30.294Z",
-  "total": 370,
+  "total": 372,
   "items": [
+    {
+      "id": 372,
+      "slug": "prompt-372",
+      "title": "街头涂鸦墙坐姿肖像",
+      "source": {
+        "name": "@NanoBanana_labs",
+        "url": "https://x.com/NanoBanana_labs/status/1984142292937281949"
+      },
+      "images": [
+        "images/372-1.jpeg",
+        "images/372-2.jpeg",
+        "images/372-3.jpeg"
+      ],
+      "prompts": [
+        "Create an image of the man (use the face photo as reference, Keep face of person 100% accurate from the reference image), sitting on a graffiti-covered concrete wall, wearing an oversized white T-shirt with a funny face print loosely tucked into gray jogger pants, white socks, and black Vans Old Skool shoes. Shot from a dramatic low angle, with the shoe sole sharply dominating the foreground, clearly showing the waffle pattern. The other leg hangs casually over the edge of the wall. The background features a street mural with the words \"GRAFFITI TEXT HERE\" in striking colors — blue, yellow, and orange — set against a bright blue sky with scattered white clouds, giving an outdoor urban vibe. Natural daylight lighting, balanced and crisp, showing realistic textures on the clothing, shoes, and graffiti wall. Streetwear editorial aesthetic with strong wide-angle lens distortion, realistic colors, high detail, 4:5 aspect ratio, cinematic style inspired by Dougshineon. Atmosphere & Style: - Cinematic photography, ultra-realistic - Adventurer, luxury travel, exotic experience vibe - 8K resolution, studio-quality photo",
+        "创建一张这位男性的图像（使用面部照片作为参考，保持人物面部100%准确），他坐在涂鸦覆盖的混凝土墙上，穿着印有趣味面孔图案的超大白色T恤，松散地塞进灰色慢跑裤，白色袜子，和黑色Vans Old Skool鞋子。以戏剧性的低角度拍摄，鞋底清晰占据前景，清楚展示华夫饼纹路。另一条腿随意地挂在墙边。背景是街头壁画，上面写着\"GRAFFITI TEXT HERE\"，采用醒目的颜色——蓝色、黄色和橙色——背景是明亮的蓝天和零散的白云，营造户外城市氛围。自然日光照明，平衡且清晰，展示服装、鞋子和涂鸦墙的真实纹理。街头服装编辑美学，强烈的广角镜头畸变，逼真的色彩，高细节，4:5宽高比，受Dougshineon启发的电影风格。氛围与风格：-电影摄影，超逼真 -冒险家，奢华旅行，异国体验氛围 -8K分辨率，工作室品质照片"
+      ],
+      "examples": [],
+      "notes": [],
+      "originFile": "300.md",
+      "description": "",
+      "tags": [
+        "streetwear",
+        "graffiti",
+        "urban",
+        "portrait",
+        "cinematic"
+      ],
+      "coverImage": "images/372-1.jpeg"
+    },
+    {
+      "id": 371,
+      "slug": "prompt-371",
+      "title": "数字营销招聘形象",
+      "source": {
+        "name": "@ShreyaYadav___",
+        "url": "https://x.com/ShreyaYadav___/status/1984650126133248088"
+      },
+      "images": [
+        "images/371.jpeg"
+      ],
+      "prompts": [
+        "Edit this image to show an innovative professional woman in a creative thinking pose with one hand touching her chin thoughtfully, other hand holding a laptop open at waist level, standing in a three-quarter stance with an enthusiastic visionary expression. She's wearing a modern electric blue blazer over a casual white henley shirt for creative professional appeal. The background is pristine white fading to soft mint green gradient. Digital marketing visual elements float around her: social media platform icons (Instagram, LinkedIn, Facebook, TikTok logos) in their signature colors, minimalist megaphone graphics, ascending analytics chart symbols, engagement icons like hearts and comment bubbles, target/bullseye symbols, and at-sign symbols. Colorful metric badges showing growth numbers (+2.5k, +850). Connecting lines and nodes between icons suggest integrated campaigns. Small lightning bolt and star accents in blue and green add creative energy. The left side displays compelling typography: \"WE'RE HIRING\" with bold, modern sans-serif font in vibrant gradient colors.",
+        "编辑这张图片，展示一位创新的专业女性摆出创意思考姿势，一只手优雅地触摸下巴，另一只手在腰部位置托着打开的笔记本电脑，以四分之三姿势站立，表情充满热情和远见。她穿着现代电蓝色西装外套，内搭休闲白色亨利衫，展现创意专业魅力。背景为纯净白色渐变至柔和薄荷绿色。数字营销视觉元素围绕她漂浮：社交媒体平台图标（Instagram、LinkedIn、Facebook、TikTok标志）采用其标志性颜色，简约扩音器图形，上升的分析图表符号，参与度图标如爱心和评论气泡，目标/靶心符号，以及@符号。彩色指标徽章显示增长数字（+2.5k, +850）。图标之间的连接线和节点暗示整合营销活动。蓝色和绿色的小闪电和星星点缀增添创意能量。左侧展示引人注目的排版：\"WE'RE HIRING\"采用大胆现代的无衬线字体，色彩鲜艳渐变。"
+      ],
+      "examples": [],
+      "notes": [],
+      "originFile": "300.md",
+      "description": "",
+      "tags": [
+        "professional",
+        "marketing",
+        "social-media",
+        "hiring",
+        "creative"
+      ],
+      "coverImage": "images/371.jpeg"
+    },
     {
       "id": 370,
       "slug": "prompt-370",
