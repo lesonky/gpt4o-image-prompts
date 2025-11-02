@@ -1,7 +1,35 @@
 {
   "generatedAt": "2025-10-27T01:25:30.294Z",
-  "total": 372,
+  "total": 373,
   "items": [
+    {
+      "id": 373,
+      "slug": "prompt-373",
+      "title": "卡通角色玩具展示场景",
+      "source": {
+        "name": "Twitter",
+        "url": "https://t.co/RNs3OrURbK"
+      },
+      "images": [
+        "images/373.jpeg"
+      ],
+      "prompts": [
+        "Create a hyper-realistic cinematic portrait of the same person from the reference photo. The person should keep their real facial features, hairstyle, skin tone, and clothing. They stand confidently at the center of a detailed and imaginative toy-style scene.\n\nThe concept resembles a highly detailed collectible action figure display: the person is surrounded by famous cartoon and pop culture characters. Include Goku from Dragon Ball (in his orange gi, glowing aura effect), Spider-Man posing dynamically, Scooby-Doo standing beside them, Tom and Jerry interacting playfully near their feet, Bugs Bunny and Daffy Duck on one side, and a few Pokémon (like Pikachu, Charizard, and Bulbasaur) adding color and energy to the scene.\n\nThe base (pedestal) should look artistic and elaborate, inspired by toy collections or action figure dioramas - detailed textures, miniature props, and references to each character's universe.\n\nLighting & atmosphere: Warm cinematic lighting with soft shadows, slightly glowing highlights that make the scene look like a premium collectible statue under a display spotlight. The environment feels cozy and magical, mixing realism and fantasy with depth of field and realistic reflections.\n\nCamera setup: Eye-level shot with slightly wide framing to capture both the person and the characters around them. High detail, ultra-realistic materials, subtle background blur, 8K quality.",
+        "创建一张与参考照片中相同人物的超写实电影级肖像。该人物应保持其真实面部特征、发型、肤色和服装。他们自信地站在一个精细且富有想象力的玩具风格场景中心。\n\n概念类似于高度精细的可收藏动作公仔展示：该人物被著名的卡通和流行文化角色包围。包括龙珠的悟空（穿着橙色练功服，带有光环效果）、动态摆姿势的蜘蛛侠、站在他们旁边的史酷比、在他们脚边嬉戏互动的汤姆和杰瑞、一边的兔八哥和达菲鸭，以及一些宝可梦（如皮卡丘、喷火龙和妙蛙种子）为场景增添色彩和活力。\n\n底座（基座）应看起来艺术且精致，灵感来自玩具收藏或动作公仔立体模型——精细纹理、微型道具，以及每个角色宇宙的参考。\n\n光线与氛围：温暖的电影级光线，柔和阴影，微微发光的高光，使场景看起来像在展示灯光下的高级收藏雕像。环境感觉舒适而神奇，混合现实主义和幻想，具有景深和真实反射。\n\n相机设置：平视拍摄，略微宽框架以捕捉该人物和他们周围的角色。高细节、超写实材料、微妙背景模糊、8K质量。"
+      ],
+      "examples": [],
+      "notes": [],
+      "originFile": "300.md",
+      "description": "",
+      "tags": [
+        "cartoon",
+        "action-figure",
+        "pop-culture",
+        "cinematic",
+        "portrait"
+      ],
+      "coverImage": "images/373.jpeg"
+    },
     {
       "id": 372,
       "slug": "prompt-372",
