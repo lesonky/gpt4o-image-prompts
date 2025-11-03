@@ -1,7 +1,33 @@
 {
-  "generatedAt": "2025-10-27T01:25:30.294Z",
-  "total": 374,
+  "generatedAt": "2025-11-03T09:44:49.588Z",
+  "total": 375,
   "items": [
+    {
+      "id": 375,
+      "slug": "prompt-375",
+      "title": "鱼眼镜头自拍与动漫角色",
+      "source": {
+        "name": "Twitter",
+        "url": "https://twitter.com/ecommartinez/status/1983892304621662607"
+      },
+      "images": [
+        "images/375.jpg"
+      ],
+      "prompts": [
+        "Ultra-realistic selfie in vertical 9:16 format with fisheye lens of me with (Sonic and Mario). Set in a small, bright living room with white tones. High camera angle. Extreme fisheye distortion. Realistic and cinematic lighting. Anime characters integrated with stylized realism.",
+        "超写实自拍，垂直9:16格式，使用鱼眼镜头拍摄我与（索尼克和马里奥）。场景设定在白色调的小而明亮的客厅中。高角度拍摄。极端鱼眼畸变。写实且电影感的灯光。动漫角色以风格化的写实主义融入。"
+      ],
+      "examples": [],
+      "notes": [],
+      "originFile": "300.md",
+      "description": "",
+      "tags": [
+        "character",
+        "interior",
+        "landscape"
+      ],
+      "coverImage": "images/375.jpg"
+    },
     {
       "id": 374,
       "slug": "prompt-374",
@@ -19,15 +45,12 @@
       ],
       "examples": [],
       "notes": [],
-      "originFile": "374.md",
-      "description": "",
+      "originFile": "300.md",
+      "description": "---",
       "tags": [
-        "portrait",
-        "digital-art",
-        "chalkboard",
-        "doodle",
-        "whimsical",
-        "colorful"
+        "illustration",
+        "paper-craft",
+        "portrait"
       ],
       "coverImage": "images/374-1.jpg"
     },
@@ -51,11 +74,17 @@
       "originFile": "300.md",
       "description": "",
       "tags": [
+        "3d",
         "cartoon",
-        "action-figure",
-        "pop-culture",
-        "cinematic",
-        "portrait"
+        "character",
+        "fantasy",
+        "fashion",
+        "landscape",
+        "photography",
+        "portrait",
+        "sculpture",
+        "toy",
+        "vehicle"
       ],
       "coverImage": "images/373.png"
     },
@@ -81,11 +110,11 @@
       "originFile": "300.md",
       "description": "",
       "tags": [
-        "streetwear",
-        "graffiti",
-        "urban",
-        "portrait",
-        "cinematic"
+        "fashion",
+        "nature",
+        "neon",
+        "photography",
+        "portrait"
       ],
       "coverImage": "images/372-1.jpeg"
     },
@@ -109,11 +138,10 @@
       "originFile": "300.md",
       "description": "",
       "tags": [
-        "professional",
-        "marketing",
-        "social-media",
-        "hiring",
-        "creative"
+        "logo",
+        "minimalist",
+        "nature",
+        "typography"
       ],
       "coverImage": "images/371.jpeg"
     },
