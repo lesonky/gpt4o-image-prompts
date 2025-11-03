@@ -1,7 +1,31 @@
 {
-  "generatedAt": "2025-11-03T09:44:49.588Z",
-  "total": 375,
+  "generatedAt": "2025-11-03T10:07:03.164Z",
+  "total": 376,
   "items": [
+    {
+      "id": 376,
+      "slug": "prompt-376",
+      "title": "多国美女亲密合影",
+      "source": {
+        "name": "Twitter",
+        "url": "https://x.com/songguoxiansen/status/1984954144101458143"
+      },
+      "images": [
+        "images/376.jpg"
+      ],
+      "prompts": [
+        "Photoshop a long-haired white-haired Israeli young beauty, Photoshop a long-haired blonde Russian young beauty, Photoshop a long-haired black-haired Korean young beauty, Photoshop a long-haired red-haired American young beauty, they have intimate poses with the man in the photo.",
+        "图片中ps一个长发白发以色列年轻美女，PS一个长发金发俄罗斯年轻美女，ps一个长发黑发的韩国年轻美女，PS一个长发红发的美国年轻美女，她们和照片中的男人有亲昵的姿势。"
+      ],
+      "examples": [],
+      "notes": [],
+      "originFile": "300.md",
+      "description": "",
+      "tags": [
+        "photography"
+      ],
+      "coverImage": "images/376.jpg"
+    },
     {
       "id": 375,
       "slug": "prompt-375",
