@@ -1,7 +1,36 @@
 {
   "generatedAt": "2025-10-27T01:25:30.294Z",
-  "total": 373,
+  "total": 374,
   "items": [
+    {
+      "id": 374,
+      "slug": "prompt-374",
+      "title": "粉彩涂鸦风格肖像",
+      "source": {
+        "name": "Twitter",
+        "url": "https://twitter.com/AIwithkhan/status/1984967699706106209"
+      },
+      "images": [
+        "images/374-1.jpg",
+        "images/374-2.jpg"
+      ],
+      "prompts": [
+        "A vibrant, playful digital illustration of a young woman with voluminous curly hair, rendered in a style that resembles a chalkboard drawing mixed with colorful, whimsical handwritten doodles and stickers. The overall aesthetic should evoke a sense of positive, free-spirited energy, with elements like 'Curly Queen,' 'Hello there!', a rainbow, a smiling sun, and various arrows and abstract shapes surrounding her. The background has a textured, recycled paper feel."
+      ],
+      "examples": [],
+      "notes": [],
+      "originFile": "374.md",
+      "description": "",
+      "tags": [
+        "portrait",
+        "digital-art",
+        "chalkboard",
+        "doodle",
+        "whimsical",
+        "colorful"
+      ],
+      "coverImage": "images/374-1.jpg"
+    },
     {
       "id": 373,
       "slug": "prompt-373",
