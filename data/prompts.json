@@ -1,7 +1,242 @@
 {
-  "generatedAt": "2025-11-03T10:07:03.164Z",
-  "total": 376,
+  "generatedAt": "2025-11-05T14:57:50.327Z",
+  "total": 384,
   "items": [
+    {
+      "id": 384,
+      "slug": "prompt-384",
+      "title": "鱼眼镜头自拍与动漫角色",
+      "source": {
+        "name": "Twitter",
+        "url": "https://twitter.com/ecommartinez/status/1983892304621662607"
+      },
+      "images": [
+        "images/384-1.png",
+        "images/384-2.png"
+      ],
+      "prompts": [
+        "Selfie ultra-realista en formato vertical 9:16 con lente ojo de pez de mí junto a (Sonic y Mario). Ambientado en una sala de estar pequeña y luminosa con tonos blancos. Ángulo de cámara alto. Distorsión extrema de ojo de pez. Iluminación realista y cinematográfica. Personajes de anime integrados con realismo estilizado.",
+        "超写实自拍，垂直9:16格式，使用鱼眼镜头拍摄我与（索尼克和马里奥）。场景设定在白色调的小而明亮的客厅中。高角度拍摄。极端鱼眼畸变。写实且电影感的灯光。动漫角色以风格化的写实主义融入。",
+        "Ultra-realistic selfie in vertical 9:16 format with fisheye lens of me with (Sonic and Mario). Set in a small, bright living room with white tones. High camera angle. Extreme fisheye distortion. Realistic and cinematic lighting. Anime characters integrated with stylized realism."
+      ],
+      "examples": [],
+      "notes": [],
+      "originFile": "300.md",
+      "description": "",
+      "tags": [
+        "character",
+        "interior",
+        "landscape"
+      ],
+      "coverImage": "images/384-1.png"
+    },
+    {
+      "id": 383,
+      "slug": "prompt-383",
+      "title": "图像修复与增强",
+      "source": {
+        "name": "Twitter",
+        "url": "https://twitter.com/aleenaamiir/status/1985634042109444580"
+      },
+      "images": [
+        "images/383-1.png",
+        "images/383-2.png"
+      ],
+      "prompts": [
+        "Fixing damaged facial details and body parts with natural reconstruction\nRemoving visual noise and sharpening the image\nReconstructing missing background elements based on context\nMatching textures and lighting seamlessly\nFinal image must look natural, modern, fully colored, and emotionally resonant.\nPreserve all facial structure and identity from the original.\nComposition and proportions must remain intact.\nUse soft ambient lighting with high-definition clarity.",
+        "自然重建修复受损的面部细节和身体部位\n去除视觉噪点并锐化图像\n基于上下文重建缺失的背景元素\n无缝匹配纹理和灯光\n最终图像必须看起来自然、现代、完全彩色且情感共鸣。\n保留原始的所有面部结构和身份特征。\n构图和比例必须保持完整。\n使用柔和的环境光，具有高清清晰度。"
+      ],
+      "examples": [],
+      "notes": [],
+      "originFile": "300.md",
+      "description": "",
+      "tags": [
+        "nature"
+      ],
+      "coverImage": "images/383-1.png"
+    },
+    {
+      "id": 382,
+      "slug": "prompt-382",
+      "title": "皮克斯/梦工厂风格3D角色",
+      "source": {
+        "name": "Twitter",
+        "url": "https://twitter.com/aleenaamiir/status/1985634042109444580"
+      },
+      "images": [
+        "images/382-1.png",
+        "images/382-2.png"
+      ],
+      "prompts": [
+        "Full-body 3D caricature of the characters in the picture, rendered in the iconic Pixar/DreamWorks animation style.\n\nEmphasis on Facial Details (to maximize likeness):\n\nEyes: Expressive and large, with detailed irises, glossy highlights in the pupils, and subtle crow's feet at the corners that crinkle with their smiles to enhance expression.\nHead & Features: A slightly oversized head to accentuate expressions. Subtly exaggerated facial features that stay true to the original character's likeness.\nSkin Texture: Realistic skin with visible fine pores and soft subsurface scattering for a warm, life-like glow. Include faint, natural laugh lines around the mouth and eyes.\nSmile: A gentle, warm, and genuine smile.\nHair & Eyebrows: Highly detailed, with individual strands visible, creating a soft and realistic look.\nBody & Scene:\n\nPose: A dynamic, full-body pose that showcases their personality, with balanced and appealing proportions. Full body must be visible.\nClothing: Smooth, polished surfaces with realistic and subtle fabric textures.\nLighting & Background: Soft, cinematic ambient lighting that casts gentle shadows. A simple, warm reddish-orange gradient background.\nOverall Quality:\n\nCinematic quality, ultra-high detail, vibrant yet natural color palette, and a perfect blend of stylized charm and balanced realism.",
+        "将图片中的角色转换为全身3D漫画化，采用标志性的皮克斯/梦工厂动画风格。\n\n面部细节强调（最大化相似度）：\n\n眼睛：富有表现力且大，具有详细的虹膜，瞳孔中有光泽高光，眼角有细微的鱼尾纹，随着微笑而皱起以增强表情。\n头部和特征：略微过大的头部以突出表情。微妙夸张的面部特征，保持原始角色相似度。\n皮肤纹理：逼真的皮肤，可见细毛孔和柔和的次表面散射，呈现温暖、逼真的光泽。包括嘴和眼睛周围淡淡的自然笑纹。\n微笑：温和、温暖和真诚的微笑。\n头发和眉毛：高度详细，可见单独的发丝，创造柔软逼真的外观。\n身体和场景：\n\n姿势：动态的全身姿势，展示个性，具有平衡和吸引人的比例。全身必须可见。\n服装：光滑、抛光的表面，具有逼真和微妙的织物纹理。\n灯光和背景：柔和、电影般的环境光，投射柔和的阴影。简单的暖红橙色渐变背景。\n整体质量：\n\n电影级质量，超高细节，鲜艳而自然的色彩调色板，以及风格化魅力和平衡写实主义的完美融合。",
+        "Transform the characters in the picture into Full-body 3D caricature in Pixar/DreamWorks style, featuring expressive large eyes, slightly oversized head, and subtly exaggerated facial features. Realistic skin with soft subsurface scattering, detailed hair, and a gentle warm smile. Smooth polished surfaces with subtle fabric texture on clothing. Dynamic pose showing personality, with full body visible and balanced proportions. Soft ambient lighting, warm reddish-orange gradient background. Cinematic quality, high detail, vibrant yet natural colors, stylized charm with balanced realism.",
+        "将图片中的角色转换为皮克斯/梦工厂风格的全身3D漫画化，具有富有表现力的大眼睛、略微过大的头部和微妙夸张的面部特征。逼真的皮肤带有柔和的次表面散射、详细的头发和温和温暖的微笑。服装上光滑抛光的表面带有微妙的织物纹理。动态姿势展示个性，全身可见且比例平衡。柔和的环境光，暖红橙色渐变背景。电影级质量，高细节，鲜艳而自然的颜色，风格化魅力与平衡写实主义。"
+      ],
+      "examples": [],
+      "notes": [],
+      "originFile": "300.md",
+      "description": "",
+      "tags": [
+        "character",
+        "fashion",
+        "landscape",
+        "logo",
+        "nature",
+        "vehicle"
+      ],
+      "coverImage": "images/382-1.png"
+    },
+    {
+      "id": 381,
+      "slug": "prompt-381",
+      "title": "辛普森一家风格角色",
+      "source": {
+        "name": "Twitter",
+        "url": "https://twitter.com/aleenaamiir/status/1985634042109444580"
+      },
+      "images": [
+        "images/381.jpg",
+        "images/381-1.jpg",
+        "images/381-2.jpg",
+        "images/381-3.jpg",
+        "images/381-4.jpg",
+        "images/381-5.jpg",
+        "images/381-6.jpg",
+        "images/381-7.jpg",
+        "images/381-8.jpg"
+      ],
+      "prompts": [
+        "Full-body caricature of the characters in the picture in The Simpsons style, featuring iconic yellow skin tone, large expressive eyes with black pupils, and a slightly exaggerated overbite. Hair and clothing rendered in flat, clean colors with bold outlines and subtle shading for depth. Facial features stylized but recognizable, with clear lines for eyebrows, mouth, and nose. Dynamic pose showing personality, full body visible, balanced proportions, and lively gestures. Background is a classic Springfield-inspired scene with cartoon-style houses, trees, and soft gradient sky, warm pastel tones, and simple but engaging environment. Bright, vibrant, and playful colors, with polished clean lines and consistent Simpsons-style charm.",
+        "图片中角色的全身漫画化，采用辛普森一家风格，具有标志性的黄色肤色、带有黑色瞳孔的大而有表现力的眼睛，以及略微夸张的龅牙。头发和服装采用平面、干净的颜色渲染，带有粗轮廓线和微妙的阴影以增加深度。面部特征风格化但可识别，眉毛、嘴巴和鼻子有清晰的线条。动态姿势展现个性，全身可见，比例平衡，手势生动。背景是经典的斯普林菲尔德风格场景，有卡通风格的房屋、树木和柔和的渐变天空，温暖的柔和色调，简单但引人入胜的环境。明亮、鲜艳和俏皮的颜色，带有抛光干净的线条和一致的辛普森风格魅力。"
+      ],
+      "examples": [],
+      "notes": [],
+      "originFile": "300.md",
+      "description": "示例图片：",
+      "tags": [
+        "cartoon",
+        "character",
+        "fashion",
+        "landscape",
+        "logo",
+        "vehicle"
+      ],
+      "coverImage": "images/381.jpg"
+    },
+    {
+      "id": 380,
+      "slug": "prompt-380",
+      "title": "悬浮月牙上的优雅肖像",
+      "source": {
+        "name": "Twitter",
+        "url": "https://twitter.com/SimplyAnnisa/status/1985983317699936593"
+      },
+      "images": [
+        "images/380-1.jpg",
+        "images/380-2.jpg"
+      ],
+      "prompts": [
+        "Use the uploaded photo as facial reference — preserve every facial feature exactly, with no alterations. Realistic portrait photoshoot in a studio, a happy and graceful young woman wearing soft pastel pyjamas, sitting elegantly on a glowing suspended half-crescent moon. The scene is viewed from a low angle, surrounded by dreamy white clouds resting gently on the studio floor. Gentle warm lighting with a slight haze effect creates an ethereal and cinematic atmosphere.",
+        "使用上传的照片作为面部参考——精确保留每个面部特征，不做任何改动。影棚写实肖像拍摄，一位快乐优雅的年轻女子穿着柔和的淡色睡衣，优雅地坐在发光的悬浮半弯月上。场景从低角度观看，周围是梦幻的白云轻轻落在影棚地板上。柔和温暖的灯光带有轻微的雾霾效果，营造出空灵和电影般的氛围。"
+      ],
+      "examples": [],
+      "notes": [],
+      "originFile": "300.md",
+      "description": "",
+      "tags": [
+        "landscape",
+        "photography",
+        "portrait"
+      ],
+      "coverImage": "images/380-1.jpg"
+    },
+    {
+      "id": 379,
+      "slug": "prompt-379",
+      "title": "900粉丝感谢贴纸",
+      "source": {
+        "name": "Twitter",
+        "url": "https://twitter.com/Owa_Knight/status/1985773397809512627"
+      },
+      "images": [
+        "images/379.jpg"
+      ],
+      "prompts": [
+        "Subject: cheerful 3D cartoon girl with long dark hair, white flower hair clip, expressive brown eyes, soft rounded features; wearing a mix of cute outfits (white off-shoulder top, yellow sweater, purple tee, green dress, blue pajamas, coral shirt, pink blazer); each pose conveys emotions like waving, hugging, clapping, sleeping, and giving a thumbs up Setting: bright neutral background in a 3×3 grid sticker layout, each labeled with phrases — \"Goodmorning,\" \"Lunch kana,\" \"Huh?,\" \"Hugs,\" \"Thank you,\" \"Goodnight,\" \"You're the best,\" \"miss you,\" and \"good job\"; with an elegant overlay at the top center reading \"Thank You 900 Followers\" in a friendly, modern font Lighting: soft diffuse daylight, balanced exposure emphasizing 3D shading and gloss Camera: straight-on, symmetrical framing, close-up shot for detail clarity Style: kawaii 3D emoji-sticker illustration, modern gratitude aesthetic Color Palette: warm and pastel tones — cream, blush pink, sage green, sky blue, peach, ivory Quality: ultra-detailed, high-resolution, photorealistic 3D render Reference: uploaded face Negative Prompt: distorted text, blur, watermark, overexposure, bad anatomy",
+        "主题：快乐的3D卡通女孩，长黑发，白色花朵发夹，富有表情的棕色眼睛，柔软圆润的面部特征；穿着各种可爱服装（白色露肩上衣、黄色毛衣、紫色T恤、绿色连衣裙、蓝色睡衣、珊瑚色衬衫、粉色西装外套）；每个姿势传达不同的情感，如挥手、拥抱、鼓掌、睡觉和竖起大拇指 设置：明亮的背景，3×3网格贴纸布局，每个贴纸标有短语——\"Goodmorning\"、\"Lunch kana\"、\"Huh?\"、\"Hugs\"、\"Thank you\"、\"Goodnight\"、\"You're the best\"、\"miss you\"和\"good job\"；顶部中央有优雅覆盖层，显示\"Thank You 900 Followers\"，使用友好现代字体 灯光：柔和漫射的日光，平衡曝光，强调3D阴影和光泽 相机：正面拍摄，对称构图，特写镜头以获得细节清晰度 风格：可爱3D表情贴纸插画，现代感恩美学 色彩调色板：温暖和柔和的色调——奶油色、腮红粉、鼠尾草绿、天蓝色、桃色、象牙色 质量：超详细、高分辨率、写实3D渲染 参考：上传的面部 负面提示：扭曲的文本、模糊、水印、过度曝光、不良解剖结构"
+      ],
+      "examples": [],
+      "notes": [],
+      "originFile": "300.md",
+      "description": "",
+      "tags": [
+        "cartoon",
+        "emoji",
+        "fashion",
+        "illustration",
+        "nature",
+        "paper-craft",
+        "photography",
+        "typography",
+        "vehicle"
+      ],
+      "coverImage": "images/379.jpg"
+    },
+    {
+      "id": 378,
+      "slug": "prompt-378",
+      "title": "3D可爱贴纸网格",
+      "source": {
+        "name": "Twitter",
+        "url": "https://twitter.com/ShreyaYadav___/status/1985738257708302430"
+      },
+      "images": [
+        "images/378.jpg"
+      ],
+      "prompts": [
+        "Create a 3D kawaii 10:16 canvas featuring nine chibi-style stickers in various outfits, poses, and expressions. Use the attached image for reference. Each sticker has a white border and includes a speech bubble with phrases like \"Goodmorning\", \"Lunch kana\", \"Huh\", \"Hugs\", \"Thank you\", \"Goodnight\", \"You're the best\" \"miss you\" \"mwah 😙\" \"good job\" and \"Ingat ka\". Set on a soft white-to-pastel blue gradient background for a fun, positive vibe.",
+        "创建一个3D可爱10:16画布，包含九个chibi风格的贴纸，穿着不同的服装、摆出不同的姿势和表情。使用附件图片作为参考。每个贴纸都有白色边框，并包含带有短语的对话气泡，如\"Goodmorning\"、\"Lunch kana\"、\"Huh\"、\"Hugs\"、\"Thank you\"、\"Goodnight\"、\"You're the best\"、\"miss you\"、\"mwah 😙\"、\"good job\"和\"Ingat ka\"。设置在柔和的白色到淡蓝色渐变背景上，营造有趣、积极的氛围。"
+      ],
+      "examples": [],
+      "notes": [],
+      "originFile": "300.md",
+      "description": "",
+      "tags": [
+        "fashion",
+        "paper-craft"
+      ],
+      "coverImage": "images/378.jpg"
+    },
+    {
+      "id": 377,
+      "slug": "prompt-377",
+      "title": "生日蛋糕上的微型角色",
+      "source": {
+        "name": "Twitter",
+        "url": "https://twitter.com/Arminn_Ai/status/1985462330977583602"
+      },
+      "images": [
+        "images/377.jpg"
+      ],
+      "prompts": [
+        "A hyper-realistic conceptual photo of [PERSON FROM UPLOADED PHOTO]. The character appears miniaturized and sits naturally on the edge of a fully sliced vanilla birthday cake on a clean tabletop. The cake has soft sponge layers with cream and jam, topped with powdered sugar and fresh raspberries. A single lit candle stands in the middle of the cake, its warm glow gently illuminating the character. Pose: casual, one leg hanging over the slice gap, the other bent; gaze toward the camera with a calm, warm, reflective expression. The entire cake is visible, centered on a plate. Macro depth of field: shallow focus on both cake and character with a softly blurred background. Perfect scale integration, accurate contact, and natural shadows. Lighting: bright, soft, evenly diffused studio light plus subtle candle reflections. Background: neutral indoor blur (creamy beige or light gray). Style/quality: photorealistic conceptual food art; as if shot on a Canon EOS 5D, 85mm f/1.8. Shallow DOF, crisp detail, smooth falloff. Eye-level tabletop framing, medium close-up. Warm-toned cinematic grading, fine atmospheric details—visible food texture, micro sugar granules, soft shadows.",
+        "一张超写实概念照片，[上传照片中的人物]。角色被微型化，自然地坐在干净桌面上一块完全切开的香草生日蛋糕边缘。蛋糕有柔软的蛋糕层，夹着奶油和果酱，顶部撒有糖粉和新鲜覆盆子。一支点燃的蜡烛立在蛋糕中央，其温暖的光芒轻轻照亮角色。姿势：休闲，一条腿悬在切片间隙上，另一条腿弯曲；目光朝向相机，表情平静、温暖、沉思。整个蛋糕可见，放在盘子中央。微距景深：蛋糕和角色都有浅焦，背景柔和模糊。完美的比例整合、准确的接触和自然阴影。灯光：明亮、柔和、均匀漫射的影棚灯光加上微妙的蜡烛反光。背景：中性室内模糊（奶油米色或浅灰色）。风格/质量：写实概念美食艺术；如同用佳能EOS 5D、85mm f/1.8拍摄。浅景深，清晰细节，平滑过渡。眼平桌面构图，中近景。暖色调电影级调色，精细氛围细节——可见的食物纹理、微糖颗粒、柔和阴影。"
+      ],
+      "examples": [],
+      "notes": [],
+      "originFile": "300.md",
+      "description": "",
+      "tags": [
+        "character",
+        "food",
+        "interior",
+        "nature",
+        "photography",
+        "portrait"
+      ],
+      "coverImage": "images/377.jpg"
+    },
     {
       "id": 376,
       "slug": "prompt-376",
